@@ -1,0 +1,2603 @@
+,sim_question,sim_option,survey_total,survey_nonstate,survey_state
+0,['1.  A typical member of the Russian elites thinks that'],"{'The national interests of Russia for the most part should be limited to its current territory.': [27.163514277702227, 0], 'The national interests of Russia for the most part should extend beyond its current territory.': [73.37452510678439, 0]}","The nat'l interests of Russia for the most part (1993-2016: extend) (2020: should extend) beyond its current territory.    0.741803
+The national interests of Russia for the most part  should be limited to its current territory.                            0.258197
+Name: FPNATINT, dtype: float64","The nat'l interests of Russia for the most part (1993-2016: extend) (2020: should extend) beyond its current territory.    0.798077
+The national interests of Russia for the most part  should be limited to its current territory.                            0.201923
+Name: FPNATINT, dtype: float64","The nat'l interests of Russia for the most part (1993-2016: extend) (2020: should extend) beyond its current territory.    0.7
+The national interests of Russia for the most part  should be limited to its current territory.                            0.3
+Name: FPNATINT, dtype: float64"
+1,['2.  A typical member of the Russian elites thinks that '],"{""Russia has vital interests in parts of the world not only in the 'Near Abroad' and Eastern Europe, but also in various parts of the world."": [60.38460977257791, 13.049952177149192], ""Russia has vital interests in the 'Near Abroad' and Eastern Europe, but not beyond that."": [40.58043224384139, 0], ""Russia has vital interests in the 'Near Abroad' but not beyond that."": [30.853141789362375, 0]}","Russia has vital interests not only in the ""Near Abroad"" and Eastern Europe, but also in various parts of the world    0.701657
+Russia has vitally important interests in the whole world.                                                             0.176796
+Russia has vitally important interests in the ""Near Abroad,"" but not beyond that.                                      0.121547
+Abkhazia                                                                                                               0.000000
+The European Economic Community                                                                                        0.000000
+                                                                                                                         ...   
+Global dimension                                                                                                       0.000000
+In the former states of the socialist bloc and developing countries                                                    0.000000
+In the states of the former Soviet Union and the Eastern states                                                        0.000000
+Kazakhstan                                                                                                             0.000000
+Where we sell oil                                                                                                      0.000000
+Name: FPNATINT1, Length: 67, dtype: float64","Russia has vital interests not only in the ""Near Abroad"" and Eastern Europe, but also in various parts of the world    0.807229
+Russia has vitally important interests in the whole world.                                                             0.132530
+Russia has vitally important interests in the ""Near Abroad,"" but not beyond that.                                      0.060241
+Abkhazia                                                                                                               0.000000
+The European Economic Community                                                                                        0.000000
+                                                                                                                         ...   
+Global dimension                                                                                                       0.000000
+In the former states of the socialist bloc and developing countries                                                    0.000000
+In the states of the former Soviet Union and the Eastern states                                                        0.000000
+Kazakhstan                                                                                                             0.000000
+Where we sell oil                                                                                                      0.000000
+Name: FPNATINT1, Length: 67, dtype: float64","Russia has vital interests not only in the ""Near Abroad"" and Eastern Europe, but also in various parts of the world    0.612245
+Russia has vitally important interests in the whole world.                                                             0.214286
+Russia has vitally important interests in the ""Near Abroad,"" but not beyond that.                                      0.173469
+Abkhazia                                                                                                               0.000000
+The European Economic Community                                                                                        0.000000
+                                                                                                                         ...   
+Global dimension                                                                                                       0.000000
+In the former states of the socialist bloc and developing countries                                                    0.000000
+In the states of the former Soviet Union and the Eastern states                                                        0.000000
+Kazakhstan                                                                                                             0.000000
+Where we sell oil                                                                                                      0.000000
+Name: FPNATINT1, Length: 67, dtype: float64"
+2,['3.  A typical member of the Russian elites thinks that'],"{'Military force ultimately decides everything in international relations.': [56.38856067199528, 17.5117969753442]}","Military force ultimately decides everything in international relations.                                                 0.533058
+The economic, and not military, potential of a country determines the place and role of a country in the world today.    0.466942
+Name: MILROLE, dtype: float64","Military force ultimately decides everything in international relations.                                                 0.669903
+The economic, and not military, potential of a country determines the place and role of a country in the world today.    0.330097
+Name: MILROLE, dtype: float64","The economic, and not military, potential of a country determines the place and role of a country in the world today.    0.568345
+Military force ultimately decides everything in international relations.                                                 0.431655
+Name: MILROLE, dtype: float64"
+3,['4.  A typical member of the Russian elites thinks that'],"{'Russia and the European Union should be completely independent of each another.': [62.54476126148867, 11.517427301265238], 'Russia and the European Union should be partially independent of each another.': [42.71437560020647, 20.358691710387678], 'Russia should be closely connected with the European Union in the future.': [50.575035721454256, 8.707649853748267]}","3.0                                                                              0.423237
+Russia and the European Union should be completely independent of each other.    0.253112
+2.0                                                                              0.186722
+4.0                                                                              0.107884
+Russia should become a member of the European Union in the future.               0.029046
+Name: RUS_N_EU, dtype: float64","3.0                                                                              0.438095
+Russia and the European Union should be completely independent of each other.    0.285714
+2.0                                                                              0.209524
+4.0                                                                              0.066667
+Russia should become a member of the European Union in the future.               0.000000
+Name: RUS_N_EU, dtype: float64","3.0                                                                              0.411765
+Russia and the European Union should be completely independent of each other.    0.227941
+2.0                                                                              0.169118
+4.0                                                                              0.139706
+Russia should become a member of the European Union in the future.               0.051471
+Name: RUS_N_EU, dtype: float64"
+4,['5.  A typical member of the Russian elites thinks that'],"{'Russia and Ukraine should be completely independent countries.': [65.50696811325159, 13.184414135896965], 'Russia and Ukraine should be united into a single country.': [69.87563530476754, 11.647860335768986]}","(1995 to 2004) Russia and Ukraine should be... (2008 to 2020) Completely independent countries.         0.367347
+2.0                                                                                                     0.306122
+3.0                                                                                                     0.265306
+4.0                                                                                                     0.032653
+(2004) Russia and Ukraine should be... (2008 to 2020) United into a single country.                     0.020408
+(2020) Russia should unite with only part of Ukraine   (DON'T READ!  MARK ONLY IF UNPROMPTED ANSWER)    0.008163
+6.0                                                                                                     0.000000
+(1995 to 1999) Russia and Ukraine should be united into a single country                                0.000000
+Name: RUS_N_UK, dtype: float64","(1995 to 2004) Russia and Ukraine should be... (2008 to 2020) Completely independent countries.         0.361905
+2.0                                                                                                     0.266667
+3.0                                                                                                     0.266667
+4.0                                                                                                     0.066667
+(2004) Russia and Ukraine should be... (2008 to 2020) United into a single country.                     0.028571
+(2020) Russia should unite with only part of Ukraine   (DON'T READ!  MARK ONLY IF UNPROMPTED ANSWER)    0.009524
+6.0                                                                                                     0.000000
+(1995 to 1999) Russia and Ukraine should be united into a single country                                0.000000
+Name: RUS_N_UK, dtype: float64","(1995 to 2004) Russia and Ukraine should be... (2008 to 2020) Completely independent countries.         0.371429
+2.0                                                                                                     0.335714
+3.0                                                                                                     0.264286
+(2004) Russia and Ukraine should be... (2008 to 2020) United into a single country.                     0.014286
+4.0                                                                                                     0.007143
+(2020) Russia should unite with only part of Ukraine   (DON'T READ!  MARK ONLY IF UNPROMPTED ANSWER)    0.007143
+6.0                                                                                                     0.000000
+(1995 to 1999) Russia and Ukraine should be united into a single country                                0.000000
+Name: RUS_N_UK, dtype: float64"
+5,['6.  A typical member of the Russian elites thinks that'],"{'Russia and Belarus should be completely independent countries.': [54.38519414467275, 4.670143188522717], 'Russia and Belarus should be united into a single country.': [78.33177608053927, 10.116640310451032]}","3.0                                                                                                0.384298
+4.0                                                                                                0.206612
+(1999 to 2004) Russia and Belarus should be... (2008 to 2020) Completely independent countries.    0.185950
+2.0                                                                                                0.140496
+(2004) Russia and Belarus should be... (2008 to 2020) United into a single country.                0.082645
+6.0                                                                                                0.000000
+(1999) Russia and Belarus should be united into a single country.                                  0.000000
+Name: RUS_BEL, dtype: float64","3.0                                                                                                0.336538
+4.0                                                                                                0.221154
+(1999 to 2004) Russia and Belarus should be... (2008 to 2020) Completely independent countries.    0.182692
+2.0                                                                                                0.144231
+(2004) Russia and Belarus should be... (2008 to 2020) United into a single country.                0.115385
+6.0                                                                                                0.000000
+(1999) Russia and Belarus should be united into a single country.                                  0.000000
+Name: RUS_BEL, dtype: float64","3.0                                                                                                0.420290
+4.0                                                                                                0.195652
+(1999 to 2004) Russia and Belarus should be... (2008 to 2020) Completely independent countries.    0.188406
+2.0                                                                                                0.137681
+(2004) Russia and Belarus should be... (2008 to 2020) United into a single country.                0.057971
+6.0                                                                                                0.000000
+(1999) Russia and Belarus should be united into a single country.                                  0.000000
+Name: RUS_BEL, dtype: float64"
+6,"[""7.  A typical member of the Russian elites's attitude toward a decision to admit one or more members of the CIS into NATO is""]","{'Rather negative': [53.32835880597778, 15.730918473209838], 'Very negative': [63.75053775321466, 20.219100246417632]}","Both positive and negative   NaN
+Rather negative              NaN
+Rather positive              NaN
+Very negative                NaN
+Very positive                NaN
+Name: NATOCIS, dtype: float64","Both positive and negative   NaN
+Rather negative              NaN
+Rather positive              NaN
+Very negative                NaN
+Very positive                NaN
+Name: NATOCIS, dtype: float64","Both positive and negative   NaN
+Rather negative              NaN
+Rather positive              NaN
+Very negative                NaN
+Very positive                NaN
+Name: NATOCIS, dtype: float64"
+7,"[""8.  A typical member of the Russian elites's attitude toward a decision by one or more members of the CIS to join the European Union""]","{'Rather negative': [61.32854624925981, 16.858020486939346], 'Very negative': [63.62534564767168, 15.95911932643472]}","Both positive and negative   NaN
+Rather negative              NaN
+Rather positive              NaN
+Very negative                NaN
+Very positive                NaN
+Name: EUEXPCIS, dtype: float64","Both positive and negative   NaN
+Rather negative              NaN
+Rather positive              NaN
+Very negative                NaN
+Very positive                NaN
+Name: EUEXPCIS, dtype: float64","Both positive and negative   NaN
+Rather negative              NaN
+Rather positive              NaN
+Very negative                NaN
+Very positive                NaN
+Name: EUEXPCIS, dtype: float64"
+8,['9.  A typical member of the Russian elites would prefer Russia to form a coalition with'],"{'China': [46.841300950109485, 10.825215510998136], 'European Union': [39.11431552677759, 0], 'None of the above': [46.92871042558026, 9.192993807365736], 'US': [44.698364444375116, 8.608633301590862]}","European Union       0.326271
+None of the above    0.305085
+China                0.292373
+US                   0.076271
+Name: COALITION, dtype: float64","China                0.36
+None of the above    0.33
+European Union       0.28
+US                   0.03
+Name: COALITION, dtype: float64","European Union       0.360294
+None of the above    0.286765
+China                0.242647
+US                   0.110294
+Name: COALITION, dtype: float64"
+9,['10.  A typical member of the Russian elites thinks that the crisis in Ukraine was led by'],"{'Attempts by Yanukovych to maneuver between Russia and the European Union.': [36.14061080094119, 0]}","Attempts by Russia to ""buy"" Yanukovych's loyalty                                                                           NaN
+Attempts by Yanukovych to maneuver between Russia and the European Union                                                   NaN
+Attempts by the US to foment another ""color"" revolution in Ukraine                                                         NaN
+The Ukrainian opposition, having resorted to armed methods of protest on the streets                                       NaN
+The corrupt regime of former Ukrainian President Yanukovych                                                                NaN
+The hopes of regular Ukrainians that association with the European Union would solve fundamental problems in the country   NaN
+The persistent actions of the European Union to bring Ukraine into its sphere of influence                                 NaN
+Name: UKRCRISIS1, dtype: float64","Attempts by Russia to ""buy"" Yanukovych's loyalty                                                                           NaN
+Attempts by Yanukovych to maneuver between Russia and the European Union                                                   NaN
+Attempts by the US to foment another ""color"" revolution in Ukraine                                                         NaN
+The Ukrainian opposition, having resorted to armed methods of protest on the streets                                       NaN
+The corrupt regime of former Ukrainian President Yanukovych                                                                NaN
+The hopes of regular Ukrainians that association with the European Union would solve fundamental problems in the country   NaN
+The persistent actions of the European Union to bring Ukraine into its sphere of influence                                 NaN
+Name: UKRCRISIS1, dtype: float64","Attempts by Russia to ""buy"" Yanukovych's loyalty                                                                           NaN
+Attempts by Yanukovych to maneuver between Russia and the European Union                                                   NaN
+Attempts by the US to foment another ""color"" revolution in Ukraine                                                         NaN
+The Ukrainian opposition, having resorted to armed methods of protest on the streets                                       NaN
+The corrupt regime of former Ukrainian President Yanukovych                                                                NaN
+The hopes of regular Ukrainians that association with the European Union would solve fundamental problems in the country   NaN
+The persistent actions of the European Union to bring Ukraine into its sphere of influence                                 NaN
+Name: UKRCRISIS1, dtype: float64"
+10,['11.  A typical member of the Russian elites would prefer'],"{'eastern Ukraine to become part of the Russian Federation.': [73.18943865660835, 15.647967189351936], 'eastern Ukraine to remain part of Ukraine but receive more independence from Kiev.': [45.534951302744, 8.715592056669655], 'eastern Ukraine to remain part of Ukraine under the same conditions that existed before the crisis.': [37.62767157967317, 0]}","I would like (2016: eastern Ukraine) (2020: the DNR and LNR) to become an independent (2016: government) (2020: state).     0.460526
+I would like (2016: eastern Ukraine) (2020: the DNR/LNR)  to remain part of Ukraine but receive more indep. from Kiev.      0.307018
+I would like (2016: eastern Ukraine) (2020: the DNR and LNR) to become part of the Russian Federation.                      0.162281
+I wld like e. Ukr (DNR/LNR) to rem. part of Ukr. under the same cond's that existed b/f (2016: the crisis) (2020: 2014).    0.070175
+Name: UKROPTIONS, dtype: float64","I would like (2016: eastern Ukraine) (2020: the DNR and LNR) to become an independent (2016: government) (2020: state).     0.446809
+I would like (2016: eastern Ukraine) (2020: the DNR/LNR)  to remain part of Ukraine but receive more indep. from Kiev.      0.340426
+I would like (2016: eastern Ukraine) (2020: the DNR and LNR) to become part of the Russian Federation.                      0.148936
+I wld like e. Ukr (DNR/LNR) to rem. part of Ukr. under the same cond's that existed b/f (2016: the crisis) (2020: 2014).    0.063830
+Name: UKROPTIONS, dtype: float64","I would like (2016: eastern Ukraine) (2020: the DNR and LNR) to become an independent (2016: government) (2020: state).     0.470149
+I would like (2016: eastern Ukraine) (2020: the DNR/LNR)  to remain part of Ukraine but receive more indep. from Kiev.      0.283582
+I would like (2016: eastern Ukraine) (2020: the DNR and LNR) to become part of the Russian Federation.                      0.171642
+I wld like e. Ukr (DNR/LNR) to rem. part of Ukr. under the same cond's that existed b/f (2016: the crisis) (2020: 2014).    0.074627
+Name: UKROPTIONS, dtype: float64"
+11,"['12.  A typical member of the Russian elites thinks that in annexing Crimea, Russia violated post-war and post-Soviet international agreements and international law?']","{'Definitely no': [39.91181832959367, 7.360333766861781], 'Definitely yes': [22.146227943576903, 0], 'Probably no': [36.02370133896721, 15.560212208480559], 'Probably yes': [33.419283577151674, 0]}","Definitely no    NaN
+Definitely yes   NaN
+Probably no      NaN
+Probably yes     NaN
+Name: CRIMEAVIOLAT, dtype: float64","Definitely no    NaN
+Definitely yes   NaN
+Probably no      NaN
+Probably yes     NaN
+Name: CRIMEAVIOLAT, dtype: float64","Definitely no    NaN
+Definitely yes   NaN
+Probably no      NaN
+Probably yes     NaN
+Name: CRIMEAVIOLAT, dtype: float64"
+12,['13.  A typical member of the Russian elites thinks that the reaction of the West to the events in Crimea is explained by'],"{""Criticism of the annexation of a foreign territory by Russia; Russia's violation of the norms of international law"": [93.3106142376927, 0], 'Hostile attitudes toward Russia; a desire to use the opportunity to exert influence on Russia': [39.24778172175438, 0]}","Criticism of the annexation of a foreign territory by Russia; Russia's violation of the norms of international law   NaN
+Hostile attitudes toward Russia; a desire to use the opportunity to exert influence on Russia                        NaN
+Name: UKRWEST, dtype: float64","Criticism of the annexation of a foreign territory by Russia; Russia's violation of the norms of international law   NaN
+Hostile attitudes toward Russia; a desire to use the opportunity to exert influence on Russia                        NaN
+Name: UKRWEST, dtype: float64","Criticism of the annexation of a foreign territory by Russia; Russia's violation of the norms of international law   NaN
+Hostile attitudes toward Russia; a desire to use the opportunity to exert influence on Russia                        NaN
+Name: UKRWEST, dtype: float64"
+13,['14.  A typical member of the Russian elites thinks that the deterioration of US-Russian relations over the past five to ten years happened because of'],"{'Both the US and Russia in roughly equal measure': [55.24122913053849, 2.517178149703804], 'Mostly the US': [55.24899315124054, 10.567106712267286]}","Mostly the US                                      0.500000
+Both the US and Russia in roughly equal measure    0.435897
+Mostly Russia                                      0.064103
+Name: RELUSRU, dtype: float64","Mostly the US                                      0.642857
+Both the US and Russia in roughly equal measure    0.346939
+Mostly Russia                                      0.010204
+Name: RELUSRU, dtype: float64","Both the US and Russia in roughly equal measure    0.500000
+Mostly the US                                      0.397059
+Mostly Russia                                      0.102941
+Name: RELUSRU, dtype: float64"
+14,['15.  A typical member of the Russian elites thinks that'],"{""Today's hostile relations between Ukraine and Russia are the result of mistakes made by the Russian government, and not of plots by Western countries."": [82.7572179130084, 0], ""Today's hostile relations between Ukraine and Russia are the result of plots by Western countries, and not of mistakes made by the Russian government."": [86.92662100069964, 0]}","3.0                                                                                                               0.306122
+2.0                                                                                                               0.265306
+4.0                                                                                                               0.220408
+Today's hostile relations between Ukraine and Russia are the result of plots by Western countries                 0.134694
+Today's hostile relations between Ukraine and Russia are the result of mistakes made by the Russian government    0.073469
+Name: WESTPLOT, dtype: float64","3.0                                                                                                               0.400000
+2.0                                                                                                               0.238095
+Today's hostile relations between Ukraine and Russia are the result of plots by Western countries                 0.209524
+4.0                                                                                                               0.142857
+Today's hostile relations between Ukraine and Russia are the result of mistakes made by the Russian government    0.009524
+Name: WESTPLOT, dtype: float64","2.0                                                                                                               0.285714
+4.0                                                                                                               0.278571
+3.0                                                                                                               0.235714
+Today's hostile relations between Ukraine and Russia are the result of mistakes made by the Russian government    0.121429
+Today's hostile relations between Ukraine and Russia are the result of plots by Western countries                 0.078571
+Name: WESTPLOT, dtype: float64"
+15,['16.  A typical member of the Russian elites thinks that'],"{""Russia's economic problems in the 1990s were the result of Western influence, and not the result of any missteps by the Russian leadership."": [87.80302523158579, 0], ""Russia's economic problems in the 1990s were the result of missteps by the Russian leadership, and not the result of any Western influence."": [82.4320292589351, 0]}","3.0                                                                                              0.363265
+2.0                                                                                              0.334694
+Russia's economic problems in the 1990s were the result of missteps by the Russian leadership    0.134694
+4.0                                                                                              0.114286
+Russia's economic problems in the 1990s were the result of Western influence                     0.053061
+Name: RUSSMISST, dtype: float64","3.0                                                                                              0.457143
+2.0                                                                                              0.276190
+4.0                                                                                              0.133333
+Russia's economic problems in the 1990s were the result of missteps by the Russian leadership    0.085714
+Russia's economic problems in the 1990s were the result of Western influence                     0.047619
+Name: RUSSMISST, dtype: float64","2.0                                                                                              0.378571
+3.0                                                                                              0.292857
+Russia's economic problems in the 1990s were the result of missteps by the Russian leadership    0.171429
+4.0                                                                                              0.100000
+Russia's economic problems in the 1990s were the result of Western influence                     0.057143
+Name: RUSSMISST, dtype: float64"
+16,['17.  A typical member of the Russian elites would say that the US interfered in Russian politics during the 2011-12 electoral cycle'],"{'Definitely yes': [46.67970892967583, 12.584569710852353], 'Probably not': [41.70338448637068, 17.190024342765888], 'Probably yes': [47.72524324208578, 9.527314055806077]}","Probably not      0.476923
+Definitely not    0.246154
+Probably yes      0.230769
+Definitely yes    0.046154
+Name: INTERFUS, dtype: float64","Probably not      0.500000
+Probably yes      0.266667
+Definitely not    0.200000
+Definitely yes    0.033333
+Name: INTERFUS, dtype: float64","Probably not      0.457143
+Definitely not    0.285714
+Probably yes      0.200000
+Definitely yes    0.057143
+Name: INTERFUS, dtype: float64"
+17,['18.  A typical member of the Russian elites thinks that Russia interfered in the 2016 US presidential election…'],"{'Definitely not': [42.00716216005182, 0.8774711049271716], 'Definitely yes': [45.2005301328671, 9.415921891595929], 'Probably not': [46.17163579407297, 4.894381492101197], 'Probably yes': [49.36960057641217, 14.950070118423158]}","Definitely not    0.422460
+Probably not      0.390374
+Probably yes      0.176471
+Definitely yes    0.010695
+Name: INTERFRUS, dtype: float64","Definitely not    0.444444
+Probably not      0.444444
+Probably yes      0.111111
+Definitely yes    0.000000
+Name: INTERFRUS, dtype: float64","Definitely not    0.402062
+Probably not      0.340206
+Probably yes      0.237113
+Definitely yes    0.020619
+Name: INTERFRUS, dtype: float64"
+18,['19.  A typical member of the Russian elites thinks that the growth of US military power compared to that of Russia represents the greatest threat to the security of Russia'],"{'The utmost danger': [72.27219003693351, 23.998572580618834]}","4.0                      0.397541
+3.0                      0.229508
+The utmost danger        0.221311
+2.0                      0.094262
+The absence of danger    0.057377
+Name: SECUSPOWER, dtype: float64","4.0                      0.495238
+3.0                      0.200000
+The utmost danger        0.200000
+The absence of danger    0.057143
+2.0                      0.047619
+Name: SECUSPOWER, dtype: float64","4.0                      0.323741
+3.0                      0.251799
+The utmost danger        0.237410
+2.0                      0.129496
+The absence of danger    0.057554
+Name: SECUSPOWER, dtype: float64"
+19,['20.  A typical member of the Russian elites thinks that the inability of Russia to resolve its internal problems represents the greatest threat to the security of Russia'],"{'The utmost danger': [75.21605637552318, 20.81351332661882]}","The utmost danger        0.460905
+4.0                      0.242798
+3.0                      0.160494
+2.0                      0.082305
+The absence of danger    0.053498
+Name: SECDOMES, dtype: float64","The utmost danger        0.339806
+4.0                      0.310680
+3.0                      0.165049
+2.0                      0.126214
+The absence of danger    0.058252
+Name: SECDOMES, dtype: float64","The utmost danger        0.550000
+4.0                      0.192857
+3.0                      0.157143
+2.0                      0.050000
+The absence of danger    0.050000
+Name: SECDOMES, dtype: float64"
+20,"['21.  A typical member of the Russian elites thinks that  a ""color"" revolution in Russia represents the greatest threat to the security of Russia']","{'The utmost danger': [63.228083218451374, 33.40891288126199]}","2.0                      0.337719
+3.0                      0.311404
+4.0                      0.179825
+The absence of danger    0.118421
+The utmost danger        0.052632
+Name: COLORREV, dtype: float64","2.0                      0.386139
+3.0                      0.267327
+4.0                      0.207921
+The absence of danger    0.079208
+The utmost danger        0.059406
+Name: COLORREV, dtype: float64","3.0                      0.346457
+2.0                      0.299213
+4.0                      0.157480
+The absence of danger    0.149606
+The utmost danger        0.047244
+Name: COLORREV, dtype: float64"
+21,['22.  A typical member of the Russian elites thinks that  an information war against Russia conducted by the West represents the greatest threat to the security of Russia'],"{'The utmost danger': [69.10983392692143, 24.750116666392984]}","4.0                      0.319672
+3.0                      0.213115
+2.0                      0.176230
+The absence of danger    0.172131
+The utmost danger        0.118852
+Name: INFOWEST, dtype: float64","4.0                      0.323810
+3.0                      0.228571
+2.0                      0.190476
+The absence of danger    0.152381
+The utmost danger        0.104762
+Name: INFOWEST, dtype: float64","4.0                      0.316547
+3.0                      0.201439
+The absence of danger    0.187050
+2.0                      0.165468
+The utmost danger        0.129496
+Name: INFOWEST, dtype: float64"
+22,['23.  A typical member of the Russian elites thinks that  further expansion of NATO to countries in the Near Abroad represents the greatest threat to the security of Russia'],"{'The utmost danger': [74.64002398112639, 22.194958699349716]}","4.0                      0.380165
+The utmost danger        0.326446
+3.0                      0.206612
+2.0                      0.078512
+The absence of danger    0.008264
+Name: NATOEXP, dtype: float64","4.0                      0.371429
+The utmost danger        0.361905
+3.0                      0.190476
+2.0                      0.066667
+The absence of danger    0.009524
+Name: NATOEXP, dtype: float64","4.0                      0.386861
+The utmost danger        0.299270
+3.0                      0.218978
+2.0                      0.087591
+The absence of danger    0.007299
+Name: NATOEXP, dtype: float64"
+23,['24.  A typical member of the Russian elites thinks that further enlargement of the EU to countries in the Near Abroad represents the greatest threat to the security of Russia'],"{'The utmost danger': [69.21729857276975, 29.90095633178173]}","3.0                      0.418033
+2.0                      0.209016
+4.0                      0.204918
+The absence of danger    0.094262
+The utmost danger        0.073770
+Name: EUEXP, dtype: float64","3.0                      0.451923
+2.0                      0.221154
+4.0                      0.211538
+The utmost danger        0.076923
+The absence of danger    0.038462
+Name: EUEXP, dtype: float64","3.0                      0.392857
+2.0                      0.200000
+4.0                      0.200000
+The absence of danger    0.135714
+The utmost danger        0.071429
+Name: EUEXP, dtype: float64"
+24,"[""25.  A typical member of the Russian elites thinks that cyberattacks on Russia's critical infrastructure launched by the West represents the greatest threat to the security of Russia""]","{'The utmost danger': [68.7904439136982, 19.21944406336029]}","3.0                      0.326531
+4.0                      0.289796
+The utmost danger        0.212245
+2.0                      0.163265
+The absence of danger    0.008163
+Name: CYBERWEST, dtype: float64","4.0                      0.314286
+3.0                      0.266667
+2.0                      0.219048
+The utmost danger        0.190476
+The absence of danger    0.009524
+Name: CYBERWEST, dtype: float64","3.0                      0.371429
+4.0                      0.271429
+The utmost danger        0.228571
+2.0                      0.121429
+The absence of danger    0.007143
+Name: CYBERWEST, dtype: float64"
+25,['26.  A typical member of the Russian elites thinks that  the US represents a threat to Russian national security?'],"{'Yes': [59.835649673337876, 24.307652232984832]}","Yes     0.598291
+No      0.358974
+99.0    0.042735
+Name: FPUSFEAR, dtype: float64","Yes     0.686869
+No      0.242424
+99.0    0.070707
+Name: FPUSFEAR, dtype: float64","Yes     0.533333
+No      0.444444
+99.0    0.022222
+Name: FPUSFEAR, dtype: float64"
+26,['27.  A typical member of the Russian elites thinks that Russia should…'],"{'Increase its military expenditures': [82.39855535808026, 8.119186737810557], 'Keep its military expenditures at the same level': [50.597288185686956, 15.154642604900282]}","Keep them at the same level           0.520833
+Increase its military expenditures    0.337500
+Decrease them                         0.141667
+Name: MILLEV, dtype: float64","Keep them at the same level           0.543689
+Increase its military expenditures    0.436893
+Decrease them                         0.019417
+Name: MILLEV, dtype: float64","Keep them at the same level           0.503650
+Increase its military expenditures    0.262774
+Decrease them                         0.233577
+Name: MILLEV, dtype: float64"
+27,"['28.  According to A typical member of the Russian elites, should Russia send its troops to assist countries that were formerly part of the USSR if they request military assistance?']","{'It should': [86.089266974167, 0], 'It should not': [81.6232392364472, 0]}","It should        0.718062
+It should not    0.281938
+Name: FPAIDXSU, dtype: float64","It should        0.824742
+It should not    0.175258
+Name: FPAIDXSU, dtype: float64","It should        0.638462
+It should not    0.361538
+Name: FPAIDXSU, dtype: float64"
+28,"['29.  According to A typical member of the Russian elites, should Russia send its troops to assist other foreign countries if they request military assistance?']","{'It should': [84.22335987689571, 0], 'It should not': [89.46137483035817, 0]}","It should        0.589372
+It should not    0.410628
+Name: FPAIDOTH, dtype: float64","It should        0.774194
+It should not    0.225806
+Name: FPAIDOTH, dtype: float64","It should not    0.561404
+It should        0.438596
+Name: FPAIDOTH, dtype: float64"
+29,"[""30.  In A typical member of the Russian elites's opinion, defending the territorial integrity of the Russian Federation makes the use of the Russian military permissible?""]","{'No': [55.90169691648694, 0], 'Yes': [75.7464960071401, 0]}","Yes    0.979592
+No     0.020408
+Name: LFINTEG, dtype: float64","Yes    1.0
+No     0.0
+Name: LFINTEG, dtype: float64","Yes    0.964286
+No     0.035714
+Name: LFINTEG, dtype: float64"
+30,"[""31.  In A typical member of the Russian elites's opinion, defending Russian economic interests makes the use of the Russian military permissible?""]","{'Yes': [57.348437344323315, 21.841908866403912]}","Yes    0.549107
+No     0.450893
+Name: LFECON, dtype: float64","Yes    0.625
+No     0.375
+Name: LFECON, dtype: float64","No     0.507812
+Yes    0.492188
+Name: LFECON, dtype: float64"
+31,"[""32.  In A typical member of the Russian elites's opinion, defending the interests of Russians [rossiyan] living in the former republics of the USSR makes the use of the Russian military permissible?""]","{'Yes': [61.13422389315629, 19.16604853472442]}","Yes    0.571429
+No     0.428571
+Name: LFINTCIS, dtype: float64","Yes    0.647059
+No     0.352941
+Name: LFINTCIS, dtype: float64","Yes    0.508197
+No     0.491803
+Name: LFINTCIS, dtype: float64"
+32,"[""33.  In A typical member of the Russian elites's opinion, defending the interests of Russian citizens in other countries makes the use of the Russian military permissible?""]","{'No': [56.085758772979055, 0], 'Yes': [71.45515327502177, 0]}","Yes    0.515982
+No     0.484018
+Name: LFINTOTH, dtype: float64","Yes    0.64
+No     0.36
+Name: LFINTOTH, dtype: float64","No     0.588235
+Yes    0.411765
+Name: LFINTOTH, dtype: float64"
+33,"[""34.  In A typical member of the Russian elites's opinion, safeguarding Russian national security in other countries makes the use of the Russian military permissible?""]","{'Yes': [63.843487718848934, 19.259735901267]}","Yes    0.940367
+No     0.059633
+Name: LFNATSEC, dtype: float64","Yes    0.938776
+No     0.061224
+Name: LFNATSEC, dtype: float64","Yes    0.941667
+No     0.058333
+Name: LFNATSEC, dtype: float64"
+34,"[""35.  In A typical member of the Russian elites's opinion, providing security for Russia's international friends makes the use of the Russian military permissible?""]","{'No': [60.006499777993305, 0], 'Yes': [75.25087534011388, 0]}","No     0.529954
+Yes    0.470046
+Name: LFFRIEND, dtype: float64","Yes    0.5625
+No     0.4375
+Name: LFFRIEND, dtype: float64","No     0.603306
+Yes    0.396694
+Name: LFFRIEND, dtype: float64"
+35,"[""36.  In A typical member of the Russian elites's opinion, achieving a military balance with the West makes the use of the Russian military permissible?""]","{'No': [52.27051712342866, 0], 'Yes': [68.53592333062551, 0]}","Yes    0.708696
+No     0.291304
+Name: LFBALWEST, dtype: float64","Yes    0.784314
+No     0.215686
+Name: LFBALWEST, dtype: float64","Yes    0.648438
+No     0.351562
+Name: LFBALWEST, dtype: float64"
+36,"[""37.  In A typical member of the Russian elites's opinion, supporting and protecting human rights in other countries makes the use of the Russian military permissible?""]","{'No': [67.51789176820452, 0], 'Yes': [69.86705947279496, 0]}","No     0.77
+Yes    0.23
+Name: LFHUMRTS, dtype: float64","No     0.714286
+Yes    0.285714
+Name: LFHUMRTS, dtype: float64","No     0.816514
+Yes    0.183486
+Name: LFHUMRTS, dtype: float64"
+37,"[""38.  In A typical member of the Russian elites's opinion, defending the territorial integrity of the Russian Federation makes the use of natural resources for political goals permissible?""]","{'No': [77.77920565717714, 0], 'Yes': [80.1201710716434, 0]}","No    NaN
+Yes   NaN
+Name: RESTERRIT, dtype: float64","No    NaN
+Yes   NaN
+Name: RESTERRIT, dtype: float64","No    NaN
+Yes   NaN
+Name: RESTERRIT, dtype: float64"
+38,"[""39.  In A typical member of the Russian elites's opinion, defending Russian economic interests makes the use of natural resources for political goals permissible?""]","{'No': [67.6775561660304, 0], 'Yes': [86.24660441095115, 0]}","No    NaN
+Yes   NaN
+Name: RESECON, dtype: float64","No    NaN
+Yes   NaN
+Name: RESECON, dtype: float64","No    NaN
+Yes   NaN
+Name: RESECON, dtype: float64"
+39,"[""40.  In A typical member of the Russian elites's opinion, defending the interests of Russians [rossiyan] living in the former republics of the USSR makes the use of natural resources for political goals permissible?""]","{'Yes': [63.59988431732611, 24.361654473037866]}","No    NaN
+Yes   NaN
+Name: RESRUSXSU, dtype: float64","No    NaN
+Yes   NaN
+Name: RESRUSXSU, dtype: float64","No    NaN
+Yes   NaN
+Name: RESRUSXSU, dtype: float64"
+40,"[""41.  In A typical member of the Russian elites's opinion, defending the interests of Russian citizens in other countries makes the use of natural resources for political goals permissible?""]","{'No': [76.12556636891193, 0], 'Yes': [74.59285357119063, 0]}","No    NaN
+Yes   NaN
+Name: RESRUSOTH, dtype: float64","No    NaN
+Yes   NaN
+Name: RESRUSOTH, dtype: float64","No    NaN
+Yes   NaN
+Name: RESRUSOTH, dtype: float64"
+41,"[""42.  In A typical member of the Russian elites's opinion, safeguarding Russian national security in other countries makes the use of natural resources for political goals permissible?""]","{'No': [56.09227968234711, 0], 'Yes': [83.96549628844835, 0]}","No    NaN
+Yes   NaN
+Name: RESNATSEC, dtype: float64","No    NaN
+Yes   NaN
+Name: RESNATSEC, dtype: float64","No    NaN
+Yes   NaN
+Name: RESNATSEC, dtype: float64"
+42,"[""43.  In A typical member of the Russian elites's opinion, providing security for Russia's international friends makes the use of natural resources for political goals permissible?""]","{'No': [83.89489505131593, 0], 'Yes': [73.3513101453245, 0]}","No    NaN
+Yes   NaN
+Name: RESFRIENDS, dtype: float64","No    NaN
+Yes   NaN
+Name: RESFRIENDS, dtype: float64","No    NaN
+Yes   NaN
+Name: RESFRIENDS, dtype: float64"
+43,"[""44.  In A typical member of the Russian elites's opinion,  achieving a military balance with the West makes the use of natural resources for political goals permissible?""]","{'No': [66.8409760222445, 0], 'Yes': [86.51995110784156, 0]}","No    NaN
+Yes   NaN
+Name: RESBALWEST, dtype: float64","No    NaN
+Yes   NaN
+Name: RESBALWEST, dtype: float64","No    NaN
+Yes   NaN
+Name: RESBALWEST, dtype: float64"
+44,"[""45.  In A typical member of the Russian elites's opinion,  supporting and protecting human rights in other countries makes the use of natural resources for political goals permissible?""]","{'No': [92.13732820727459, 0], 'Yes': [67.22766510951162, 0]}","No    NaN
+Yes   NaN
+Name: RESHUMRTS, dtype: float64","No    NaN
+Yes   NaN
+Name: RESHUMRTS, dtype: float64","No    NaN
+Yes   NaN
+Name: RESHUMRTS, dtype: float64"
+45,['46.  Do you think people like A typical member of the Russian elites can influence decisions in the realm of foreign policy?  '],"{'Significant influence': [63.214744724858186, 23.136663908422033], 'Some influence': [56.22459461939716, 12.638671526828025]}","No, they cannot                      0.588745
+Some influence                       0.393939
+Significant influence                0.017316
+(1993 to 2004) Decisive influence    0.000000
+Name: INFLFP, dtype: float64","Some influence                       0.577320
+No, they cannot                      0.381443
+Significant influence                0.041237
+(1993 to 2004) Decisive influence    0.000000
+Name: INFLFP, dtype: float64","No, they cannot                      0.738806
+Some influence                       0.261194
+(1993 to 2004) Decisive influence    0.000000
+Significant influence                0.000000
+Name: INFLFP, dtype: float64"
+46,"[""47.  According to A typical member of the Russian elites, the impact that Russia's foreign policy in recent years has had on Russia's international influence""]","{'Definitely negative': [55.853594648085824, 0], 'Definitely positive': [51.99459578598839, 0]}","Rather positive        0.493878
+Definitely positive    0.330612
+No impact              0.106122
+Rather negative        0.069388
+Name: FPRUINFL, dtype: float64","Rather positive        0.466667
+Definitely positive    0.428571
+No impact              0.076190
+Rather negative        0.028571
+Name: FPRUINFL, dtype: float64","Rather positive        0.514286
+Definitely positive    0.257143
+No impact              0.128571
+Rather negative        0.100000
+Name: FPRUINFL, dtype: float64"
+47,"[""48.  According to A typical member of the Russian elites, the impact that Russia's foreign policy in recent years has had on Russia's the standard of living in Russia""]","{'Definitely negative': [70.16447199527566, 0], 'Definitely positive': [41.85906941943807, 0]}","No impact              0.401747
+Rather positive        0.318777
+Rather negative        0.179039
+Definitely positive    0.078603
+Definitely negative    0.021834
+Name: FPRULIV, dtype: float64","No impact              0.45
+Rather positive        0.31
+Definitely positive    0.14
+Rather negative        0.09
+Definitely negative    0.01
+Name: FPRULIV, dtype: float64","No impact              0.364341
+Rather positive        0.325581
+Rather negative        0.248062
+Definitely negative    0.031008
+Definitely positive    0.031008
+Name: FPRULIV, dtype: float64"
+48,"[""49.  According to A typical member of the Russian elites, the impact that Russia's foreign policy in recent years has had on Russia's relationship with the US""]","{'Definitely negative': [67.63534374790416, 4.992511148805926]}","Rather negative        0.340164
+No impact              0.278689
+Rather positive        0.217213
+Definitely negative    0.127049
+Definitely positive    0.036885
+Name: FPRUUS, dtype: float64","Rather positive        0.352381
+Rather negative        0.285714
+No impact              0.266667
+Definitely negative    0.066667
+Definitely positive    0.028571
+Name: FPRUUS, dtype: float64","Rather negative        0.381295
+No impact              0.287770
+Definitely negative    0.172662
+Rather positive        0.115108
+Definitely positive    0.043165
+Name: FPRUUS, dtype: float64"
+49,"[""50.  According to A typical member of the Russian elites, the impact that Russia's foreign policy in recent years has had on Russia's international image""]","{'Definitely negative': [67.7314585326015, 13.55498938315979]}","Rather positive        0.506224
+Definitely positive    0.232365
+Rather negative        0.132780
+No impact              0.103734
+Definitely negative    0.024896
+Name: FPIMAGE, dtype: float64","Rather positive        0.509615
+Definitely positive    0.298077
+No impact              0.105769
+Rather negative        0.086538
+Definitely negative    0.000000
+Name: FPIMAGE, dtype: float64","Rather positive        0.503650
+Definitely positive    0.182482
+Rather negative        0.167883
+No impact              0.102190
+Definitely negative    0.043796
+Name: FPIMAGE, dtype: float64"
+50,['51.  There are various opinions about the extent to which the Internet should be regulated. A typical member of the Russian elites thinks that'],"{'Internet content should be completely free of government control.': [63.40186460093743, 32.06072342404738]}","3.0                                                                         0.301653
+Internet content should be completely free of government control.           0.264463
+4.0                                                                         0.210744
+2.0                                                                         0.144628
+Internet content should be under the complete control of the government.    0.078512
+Name: REGINTERNET, dtype: float64","3.0                                                                         0.413462
+2.0                                                                         0.240385
+4.0                                                                         0.134615
+Internet content should be under the complete control of the government.    0.134615
+Internet content should be completely free of government control.           0.076923
+Name: REGINTERNET, dtype: float64","Internet content should be completely free of government control.           0.405797
+4.0                                                                         0.268116
+3.0                                                                         0.217391
+2.0                                                                         0.072464
+Internet content should be under the complete control of the government.    0.036232
+Name: REGINTERNET, dtype: float64"
+51,['52.  There are various opinions about how order in the country should be established. A typical member of the Russian elites thinks that in Russia there should be…'],"{'Order at any price': [87.5722385327042, 0], 'Order without violations of human rights': [80.69232665930562, 0]}","Order without violations of human rights    0.424490
+3.0                                         0.244898
+4.0                                         0.146939
+2.0                                         0.097959
+Order at any price                          0.085714
+Name: FPHMNRHT, dtype: float64","Order without violations of human rights    0.285714
+3.0                                         0.276190
+2.0                                         0.209524
+4.0                                         0.133333
+Order at any price                          0.095238
+Name: FPHMNRHT, dtype: float64","Order without violations of human rights    0.528571
+3.0                                         0.221429
+4.0                                         0.157143
+Order at any price                          0.078571
+2.0                                         0.014286
+Name: FPHMNRHT, dtype: float64"
+52,"['53.  What type of political system, according to A typical member of the Russian elites, is most appropriate for Russia?']","{'A Western-style democracy': [36.41159364609424, 4.649922704463089], 'The Soviet system that existed before perestroika': [34.27641639535292, 2.8317711002834356], 'The Soviet system, but in a different, more democratic form': [37.4297773823241, 3.258652338394325], 'The current political system': [44.93980569216597, 7.8091922168245675]}","(1999) A Western-style democracy; (2004 to 2020) The current political system                                      0.507109
+(2004 to 2020) A Western-style democracy                                                                           0.255924
+(1999) The current political system; (2004 to 2020) The Soviet system, but in a different, more democratic form    0.218009
+The Soviet system that existed before perestroika                                                                  0.018957
+Name: RUSSYST, dtype: float64","(1999) A Western-style democracy; (2004 to 2020) The current political system                                      0.648936
+(1999) The current political system; (2004 to 2020) The Soviet system, but in a different, more democratic form    0.212766
+(2004 to 2020) A Western-style democracy                                                                           0.117021
+The Soviet system that existed before perestroika                                                                  0.021277
+Name: RUSSYST, dtype: float64","(1999) A Western-style democracy; (2004 to 2020) The current political system                                      0.393162
+(2004 to 2020) A Western-style democracy                                                                           0.367521
+(1999) The current political system; (2004 to 2020) The Soviet system, but in a different, more democratic form    0.222222
+The Soviet system that existed before perestroika                                                                  0.017094
+Name: RUSSYST, dtype: float64"
+53,"['54.  What do you think, in what year will someone other than A typical member of the Russian elites become the most powerful person in Russia? Most likely, this will occur...']","{'After 2030': [46.16463691969477, 8.888791384472999], 'Sometime between 2021 and 2024': [43.93188715493528, 5.331468838158643], 'Sometime between 2025 and 2030': [39.94562723220966, 7.163673780310685]}","Sometime between 2025 and 2030    0.427907
+After 2030                        0.348837
+Sometime between 2021 and 2024    0.218605
+In 2020                           0.004651
+Name: LIKELYWHEN1, dtype: float64","Sometime between 2025 and 2030    0.446809
+After 2030                        0.340426
+Sometime between 2021 and 2024    0.202128
+In 2020                           0.010638
+Name: LIKELYWHEN1, dtype: float64","Sometime between 2025 and 2030    0.413223
+After 2030                        0.355372
+Sometime between 2021 and 2024    0.231405
+In 2020                           0.000000
+Name: LIKELYWHEN1, dtype: float64"
+54,"['55.  In your opinion, how will A typical member of the Russian elites distribute power when he leaves the presidency?']","{'Keep all power in his own hands despite leaving the presidency': [42.841362027753874, 6.001791359021801], 'Transfer all power to a trusted successor': [32.22055088531614, 3.131905277701642], 'Transfer all power to several trusted and like-minded associates, having carefully balanced them against each other': [48.76425730607347, 10.911643506318324], 'Transfer power to at least one like-minded associate, but keep some power for himself well into the future': [45.23736122473078, 9.481669245247577]}","Transfer all power to a trusted successor                                                                              0.252294
+Keep all power in his own hands despite leaving the presidency                                                         0.247706
+Transfer some power to at least one like-minded associate, but keep some power for himself well into the future        0.233945
+Let voters decide in fully free and fair elections, even if this allows a true opposition figure to win                0.197248
+Transfer all power to several trusted and like-minded associates, having carefully balanced them against each other    0.068807
+Name: LIKELYPUFUTURE, dtype: float64","Let voters decide in fully free and fair elections, even if this allows a true opposition figure to win                0.322581
+Keep all power in his own hands despite leaving the presidency                                                         0.268817
+Transfer all power to a trusted successor                                                                              0.225806
+Transfer some power to at least one like-minded associate, but keep some power for himself well into the future        0.139785
+Transfer all power to several trusted and like-minded associates, having carefully balanced them against each other    0.043011
+Name: LIKELYPUFUTURE, dtype: float64","Transfer some power to at least one like-minded associate, but keep some power for himself well into the future        0.304
+Transfer all power to a trusted successor                                                                              0.272
+Keep all power in his own hands despite leaving the presidency                                                         0.232
+Let voters decide in fully free and fair elections, even if this allows a true opposition figure to win                0.104
+Transfer all power to several trusted and like-minded associates, having carefully balanced them against each other    0.088
+Name: LIKELYPUFUTURE, dtype: float64"
+55,"[""56.  What is A typical member of the Russian elites's point of view?""]","{'The power of parliament should be greater.': [61.25784090383224, 0], 'The power of the president should be greater.': [79.8378581143507, 11.519362473698859], 'The president and parliament should have equal power.': [35.731036683571645, 0]}","The president and parliament should have equal power.    0.590717
+The power of parliament should be greater.               0.210970
+The power of the president should be greater.            0.198312
+Name: CONSTPARLPRES, dtype: float64","The president and parliament should have equal power.    0.62
+The power of the president should be greater.            0.23
+The power of parliament should be greater.               0.15
+Name: CONSTPARLPRES, dtype: float64","The president and parliament should have equal power.    0.569343
+The power of parliament should be greater.               0.255474
+The power of the president should be greater.            0.175182
+Name: CONSTPARLPRES, dtype: float64"
+56,"[""57.  What is the main goal of the changes to Russia's constitution, according to A typical member of the Russian elites?""]","{'Laying the groundwork for Putin to transfer power to a chosen successor or successors': [69.38522415980815, 12.499041619324657], ""Preserving Putin's power beyond his current presidential term"": [84.52074913456102, 18.66938961157919]}","Preserving Putin’s power beyond his current presidential term                            0.368889
+Improving the efficiency of public administration                                        0.293333
+Liberalization of the political system                                                   0.173333
+Laying the groundwork for Putin to transfer power to a chosen successor or successors    0.164444
+Name: CONSTREFGOALS, dtype: float64","Improving the efficiency of public administration                                        0.386139
+Preserving Putin’s power beyond his current presidential term                            0.287129
+Liberalization of the political system                                                   0.247525
+Laying the groundwork for Putin to transfer power to a chosen successor or successors    0.079208
+Name: CONSTREFGOALS, dtype: float64","Preserving Putin’s power beyond his current presidential term                            0.435484
+Laying the groundwork for Putin to transfer power to a chosen successor or successors    0.233871
+Improving the efficiency of public administration                                        0.217742
+Liberalization of the political system                                                   0.112903
+Name: CONSTREFGOALS, dtype: float64"
+57,['58.  Which country does A typical member of the Russian elites think can serve as a model of political and economic development for Russia?'],"{'China': [58.88537566201423, 14.393506136866035], ""Many countries could serve as a  model, but they aren't appropriate for Russia."": [63.37878375704889, 12.993762086349857]}","(2020) Many countries could serve as a model, but they aren't appropriate for Russia.    0.558952
+Sweden                                                                                   0.100437
+Germany                                                                                  0.074236
+China                                                                                    0.069869
+Japan                                                                                    0.052402
+US                                                                                       0.048035
+Finland                                                                                  0.043668
+UK                                                                                       0.021834
+Norway                                                                                   0.013100
+Canada                                                                                   0.008734
+Australia                                                                                0.004367
+Take a little from each one                                                              0.004367
+Switzerland                                                                              0.000000
+Name: SEMODEL, dtype: float64","(2020) Many countries could serve as a model, but they aren't appropriate for Russia.    0.626263
+China                                                                                    0.080808
+Germany                                                                                  0.080808
+Sweden                                                                                   0.080808
+Finland                                                                                  0.050505
+Japan                                                                                    0.040404
+Norway                                                                                   0.020202
+Australia                                                                                0.010101
+US                                                                                       0.010101
+Canada                                                                                   0.000000
+Switzerland                                                                              0.000000
+Take a little from each one                                                              0.000000
+UK                                                                                       0.000000
+Name: SEMODEL, dtype: float64","(2020) Many countries could serve as a model, but they aren't appropriate for Russia.    0.507692
+Sweden                                                                                   0.115385
+US                                                                                       0.076923
+Germany                                                                                  0.069231
+China                                                                                    0.061538
+Japan                                                                                    0.061538
+Finland                                                                                  0.038462
+UK                                                                                       0.038462
+Canada                                                                                   0.015385
+Norway                                                                                   0.007692
+Take a little from each one                                                              0.007692
+Australia                                                                                0.000000
+Switzerland                                                                              0.000000
+Name: SEMODEL, dtype: float64"
+58,"[""59.  Please select the response that is closest A typical member of the Russian elites's personal evaluation of the results of perestroika.""]","{'Definitely negative': [53.67316172295084, 16.76422911465919], 'Rather negative': [58.049460571052435, 19.98002235032567], 'Rather positive': [55.19916067886063, 14.98754437066044]}","Rather positive        0.347826
+Rather negative        0.333333
+Definitely negative    0.159420
+Definitely positive    0.159420
+Uncertain              0.000000
+Name: PERESTEVAL, dtype: float64","Rather positive        0.359551
+Rather negative        0.337079
+Definitely positive    0.179775
+Definitely negative    0.123596
+Uncertain              0.000000
+Name: PERESTEVAL, dtype: float64","Rather positive        0.338983
+Rather negative        0.330508
+Definitely negative    0.186441
+Definitely positive    0.144068
+Uncertain              0.000000
+Name: PERESTEVAL, dtype: float64"
+59,"['60.  Could you please tell me whether, on the whole, A typical member of the Russian elites is proud to be a citizen of Russia?']","{'Not very proud': [37.94228297468191, 0], 'Proud': [62.536106851841765, 18.74406371969615], 'Very proud': [67.17637390355387, 18.91255308966178]}","Very proud          0.538462
+Proud               0.384615
+Not very proud      0.068376
+Not proud at all    0.008547
+Name: PRIDE, dtype: float64","Very proud          0.663462
+Proud               0.336538
+Not proud at all    0.000000
+Not very proud      0.000000
+Name: PRIDE, dtype: float64","Very proud          0.438462
+Proud               0.423077
+Not very proud      0.123077
+Not proud at all    0.015385
+Name: PRIDE, dtype: float64"
+60,['61.  Is A typical member of the Russian elites proud at all of the state of democracy in Russia?'],"{'Not proud at all': [55.485982634165175, 14.55796557809759], 'Not very proud': [56.20413202234915, 10.496037031562889], 'Proud': [41.87318036898682, 2.384502994747336], 'Very proud': [38.08368921924805, 0]}","Not very proud      0.387931
+Proud               0.336207
+Not proud at all    0.215517
+Very proud          0.060345
+Name: PRIDEDEM, dtype: float64","Proud               0.484848
+Not very proud      0.343434
+Very proud          0.111111
+Not proud at all    0.060606
+Name: PRIDEDEM, dtype: float64","Not very proud      0.421053
+Not proud at all    0.330827
+Proud               0.225564
+Very proud          0.022556
+Name: PRIDEDEM, dtype: float64"
+61,"[""62.  Is A typical member of the Russian elites proud at all of Russia's political influence in the world?""]","{'Proud': [63.49743004089884, 14.210645852484618], 'Very proud': [56.571234277310325, 15.523191984289777]}","Proud               0.477178
+Very proud          0.290456
+Not very proud      0.182573
+Not proud at all    0.049793
+Name: PRIDEGLOBINF, dtype: float64","Proud               0.428571
+Very proud          0.409524
+Not very proud      0.133333
+Not proud at all    0.028571
+Name: PRIDEGLOBINF, dtype: float64","Proud               0.514706
+Not very proud      0.220588
+Very proud          0.198529
+Not proud at all    0.066176
+Name: PRIDEGLOBINF, dtype: float64"
+62,"[""63.  Is A typical member of the Russian elites proud at all of Russia's economic achievements?""]","{'Not proud at all': [40.08061852506438, 9.792514770351262], 'Not very proud': [53.753972049173065, 12.447106185632723], 'Proud': [60.38324826458049, 16.987012328719942], 'Very proud': [60.98209822937589, 13.440170299719341]}","Not very proud      0.413934
+Proud               0.401639
+Not proud at all    0.106557
+Very proud          0.077869
+Name: PRIDERECON, dtype: float64","Proud               0.548077
+Not very proud      0.307692
+Very proud          0.105769
+Not proud at all    0.038462
+Name: PRIDERECON, dtype: float64","Not very proud      0.492857
+Proud               0.292857
+Not proud at all    0.157143
+Very proud          0.057143
+Name: PRIDERECON, dtype: float64"
+63,"[""64.  Is A typical member of the Russian elites proud at all of Russia's armed forces?""]","{'Not proud at all': [45.780203080885826, 9.323896466375228], 'Not very proud': [44.833305402239134, 3.8479397505187887], 'Proud': [60.31747980263196, 11.994223195502006], 'Very proud': [56.037504536647894, 17.265153091650788]}","Very proud          0.577406
+Proud               0.347280
+Not very proud      0.058577
+Not proud at all    0.016736
+Name: PRIDEARMY, dtype: float64","Very proud          0.673077
+Proud               0.278846
+Not proud at all    0.028846
+Not very proud      0.019231
+Name: PRIDEARMY, dtype: float64","Very proud          0.503704
+Proud               0.400000
+Not very proud      0.088889
+Not proud at all    0.007407
+Name: PRIDEARMY, dtype: float64"
+64,"[""65.  Is A typical member of the Russian elites proud at all of Russia's history?""]","{'Proud': [58.88358716779927, 13.139711782452945], 'Very proud': [68.75771142797655, 15.895369467687532]}","Very proud          0.625514
+Proud               0.325103
+Not very proud      0.045267
+Not proud at all    0.004115
+Name: PRIDEHIST, dtype: float64","Very proud          0.704762
+Proud               0.266667
+Not very proud      0.019048
+Not proud at all    0.009524
+Name: PRIDEHIST, dtype: float64","Very proud          0.565217
+Proud               0.369565
+Not very proud      0.065217
+Not proud at all    0.000000
+Name: PRIDEHIST, dtype: float64"
+65,"[""66.  People have different views about what determines a person's identification with a country.  Do you think it is important, according to A typical member of the Russian elites, to speak Russian?""]","{'Important': [57.38718227233515, 17.62840784207452], 'Very important': [66.097115512787, 12.856400353097117]}","Important              NaN
+Not at all important   NaN
+Not very important     NaN
+Very important         NaN
+Name: IDSPEAKRUSS, dtype: float64","Important              NaN
+Not at all important   NaN
+Not very important     NaN
+Very important         NaN
+Name: IDSPEAKRUSS, dtype: float64","Important              NaN
+Not at all important   NaN
+Not very important     NaN
+Very important         NaN
+Name: IDSPEAKRUSS, dtype: float64"
+66,"[""67.  People have different views about what determines a person's identification with a country.  Do you think it is important, according to A typical member of the Russian elites, to be Russian by nationality?""]","{'Important': [60.56665067897626, 8.956921979574949], 'Very important': [63.72779649318794, 13.828515140159409]}","Important              NaN
+Not at all important   NaN
+Not very important     NaN
+Very important         NaN
+Name: IDRUSSNAT, dtype: float64","Important              NaN
+Not at all important   NaN
+Not very important     NaN
+Very important         NaN
+Name: IDRUSSNAT, dtype: float64","Important              NaN
+Not at all important   NaN
+Not very important     NaN
+Very important         NaN
+Name: IDRUSSNAT, dtype: float64"
+67,"[""68.  People have different views about what determines a person's identification with a country.  Do you think it is important, according to A typical member of the Russian elites, to be Orthodox?""]","{'Important': [64.81199937335215, 11.69970743322374], 'Very important': [59.78613203084542, 14.055899547656807]}","Important              NaN
+Not at all important   NaN
+Not very important     NaN
+Very important         NaN
+Name: IDORTHODOX, dtype: float64","Important              NaN
+Not at all important   NaN
+Not very important     NaN
+Very important         NaN
+Name: IDORTHODOX, dtype: float64","Important              NaN
+Not at all important   NaN
+Not very important     NaN
+Very important         NaN
+Name: IDORTHODOX, dtype: float64"
+68,"[""69.  People have different views about what determines a person's identification with a country.  Do you think it is important, according to A typical member of the Russian elites, to respect the Russian political system and its laws?""]","{'Important': [56.436631835424606, 14.997922252332877], 'Very important': [61.69564908694099, 13.863199566486621]}","Important              NaN
+Not at all important   NaN
+Not very important     NaN
+Very important         NaN
+Name: IDRUSPOLSYST, dtype: float64","Important              NaN
+Not at all important   NaN
+Not very important     NaN
+Very important         NaN
+Name: IDRUSPOLSYST, dtype: float64","Important              NaN
+Not at all important   NaN
+Not very important     NaN
+Very important         NaN
+Name: IDRUSPOLSYST, dtype: float64"
+69,"[""70.  People have different views about what determines a person's identification with a country.  Do you think it is important, according to A typical member of the Russian elites, to be a part of Russian culture and traditions?""]","{'Important': [60.25092950162215, 16.858960122930913], 'Very important': [70.74042458071855, 12.582845050877166]}","Important              NaN
+Not at all important   NaN
+Not very important     NaN
+Very important         NaN
+Name: IDRUSTRADITIONS, dtype: float64","Important              NaN
+Not at all important   NaN
+Not very important     NaN
+Very important         NaN
+Name: IDRUSTRADITIONS, dtype: float64","Important              NaN
+Not at all important   NaN
+Not very important     NaN
+Very important         NaN
+Name: IDRUSTRADITIONS, dtype: float64"
+70,['71.  Please tell me how friendly or hostile A typical member of the Russian elites thinks China is toward Russia today.'],"{'Neutral': [59.11229294620925, 18.37070387562746]}","Rather friendly    0.457143
+Very friendly      0.297959
+Neutral            0.228571
+Rather hostile     0.016327
+Very hostile       0.000000
+Name: CHINAF, dtype: float64","Rather friendly    0.447619
+Very friendly      0.295238
+Neutral            0.228571
+Rather hostile     0.028571
+Very hostile       0.000000
+Name: CHINAF, dtype: float64","Rather friendly    0.464286
+Very friendly      0.300000
+Neutral            0.228571
+Rather hostile     0.007143
+Very hostile       0.000000
+Name: CHINAF, dtype: float64"
+71,['72.  Please tell me how friendly or hostile A typical member of the Russian elites thinks Ukraine is toward Russia today.'],"{'Very hostile': [83.27061217603122, 7.575985050076973]}","Rather hostile     0.510204
+Very hostile       0.391837
+Neutral            0.097959
+Rather friendly    0.000000
+Very friendly      0.000000
+Name: UKRAINEF, dtype: float64","Rather hostile     0.476190
+Very hostile       0.428571
+Neutral            0.095238
+Rather friendly    0.000000
+Very friendly      0.000000
+Name: UKRAINEF, dtype: float64","Rather hostile     0.535714
+Very hostile       0.364286
+Neutral            0.100000
+Rather friendly    0.000000
+Very friendly      0.000000
+Name: UKRAINEF, dtype: float64"
+72,['73.  Please tell me how friendly or hostile A typical member of the Russian elites thinks US is toward Russia today.'],"{'Very hostile': [77.62698420887105, 9.120111081277475]}","Very hostile       0.374486
+Rather hostile     0.325103
+Neutral            0.222222
+Rather friendly    0.069959
+99.0               0.008230
+Very friendly      0.000000
+Name: USF, dtype: float64","Very hostile       0.413462
+Rather hostile     0.307692
+Neutral            0.211538
+Rather friendly    0.057692
+99.0               0.009615
+Very friendly      0.000000
+Name: USF, dtype: float64","Very hostile       0.345324
+Rather hostile     0.338129
+Neutral            0.230216
+Rather friendly    0.079137
+99.0               0.007194
+Very friendly      0.000000
+Name: USF, dtype: float64"
+73,['74.  Please tell me how friendly or hostile A typical member of the Russian elites thinks Estonia is toward Russia today.'],"{'Very hostile': [75.77170859412627, 8.03933679274223]}","Rather hostile     0.454918
+Very hostile       0.303279
+Neutral            0.233607
+Rather friendly    0.004098
+Very friendly      0.004098
+Name: ESTONIAF, dtype: float64","Rather hostile     0.509615
+Very hostile       0.298077
+Neutral            0.173077
+Rather friendly    0.009615
+Very friendly      0.009615
+Name: ESTONIAF, dtype: float64","Rather hostile     0.414286
+Very hostile       0.307143
+Neutral            0.278571
+Rather friendly    0.000000
+Very friendly      0.000000
+Name: ESTONIAF, dtype: float64"
+74,['75.  Please tell me how friendly or hostile A typical member of the Russian elites thinks Poland is toward Russia today.'],"{'Very hostile': [74.00225086342694, 9.068315738404307]}","Rather hostile     0.502041
+Very hostile       0.326531
+Neutral            0.167347
+Rather friendly    0.004082
+Very friendly      0.000000
+Name: POLANDF, dtype: float64","Rather hostile     0.514286
+Very hostile       0.352381
+Neutral            0.123810
+Rather friendly    0.009524
+Very friendly      0.000000
+Name: POLANDF, dtype: float64","Rather hostile     0.492857
+Very hostile       0.307143
+Neutral            0.200000
+Rather friendly    0.000000
+Very friendly      0.000000
+Name: POLANDF, dtype: float64"
+75,['76.  Please tell me how friendly or hostile A typical member of the Russian elites thinks Germany is toward Russia today.'],"{'Very hostile': [62.937452539783024, 10.06568718965906]}","Rather friendly    0.467213
+Neutral            0.336066
+Very friendly      0.106557
+Rather hostile     0.081967
+Very hostile       0.008197
+Name: GERMANYF, dtype: float64","Rather friendly    0.500000
+Neutral            0.317308
+Very friendly      0.105769
+Rather hostile     0.067308
+Very hostile       0.009615
+Name: GERMANYF, dtype: float64","Rather friendly    0.442857
+Neutral            0.350000
+Very friendly      0.107143
+Rather hostile     0.092857
+Very hostile       0.007143
+Name: GERMANYF, dtype: float64"
+76,['77.  Please tell me how friendly or hostile A typical member of the Russian elites thinks Japan is toward Russia today.'],"{'Neutral': [59.90588761609482, 15.49261308881633], 'Very hostile': [44.867956935943745, 0]}","Rather friendly    0.404959
+Neutral            0.396694
+Rather hostile     0.115702
+Very friendly      0.070248
+Very hostile       0.012397
+Name: JAPANF, dtype: float64","Rather friendly    0.432692
+Neutral            0.413462
+Rather hostile     0.067308
+Very friendly      0.067308
+Very hostile       0.019231
+Name: JAPANF, dtype: float64","Neutral            0.384058
+Rather friendly    0.384058
+Rather hostile     0.152174
+Very friendly      0.072464
+Very hostile       0.007246
+Name: JAPANF, dtype: float64"
+77,['78.  Please tell me how friendly or hostile A typical member of the Russian elites thinks Georgia is toward Russia today.'],"{'Very hostile': [75.9481302307536, 9.214727236698605]}","Rather hostile     0.576132
+Very hostile       0.213992
+Neutral            0.201646
+Rather friendly    0.004115
+Very friendly      0.004115
+Name: GEORGIAF, dtype: float64","Rather hostile     0.542857
+Very hostile       0.257143
+Neutral            0.180952
+Rather friendly    0.009524
+Very friendly      0.009524
+Name: GEORGIAF, dtype: float64","Rather hostile     0.601449
+Neutral            0.217391
+Very hostile       0.181159
+Rather friendly    0.000000
+Very friendly      0.000000
+Name: GEORGIAF, dtype: float64"
+78,['79.  Please tell me how friendly or hostile A typical member of the Russian elites thinks European Union is toward Russia today.'],"{'Very hostile': [74.64415810661325, 10.050252727495883]}","Neutral            0.473251
+Rather friendly    0.341564
+Rather hostile     0.127572
+Very friendly      0.045267
+Very hostile       0.012346
+Name: EUF, dtype: float64","Neutral            0.480769
+Rather friendly    0.326923
+Rather hostile     0.115385
+Very friendly      0.057692
+Very hostile       0.019231
+Name: EUF, dtype: float64","Neutral            0.467626
+Rather friendly    0.352518
+Rather hostile     0.136691
+Very friendly      0.035971
+Very hostile       0.007194
+Name: EUF, dtype: float64"
+79,['80.  Please tell me how friendly or hostile A typical member of the Russian elites thinks Great Britain is toward Russia today.'],"{'Very hostile': [79.48228199330582, 7.980295650386645]}","Rather hostile     0.477551
+Very hostile       0.195918
+Neutral            0.191837
+Rather friendly    0.126531
+Very friendly      0.008163
+Name: GBF, dtype: float64","Rather hostile     0.361905
+Very hostile       0.247619
+Neutral            0.238095
+Rather friendly    0.152381
+Very friendly      0.000000
+Name: GBF, dtype: float64","Rather hostile     0.564286
+Neutral            0.157143
+Very hostile       0.157143
+Rather friendly    0.107143
+Very friendly      0.014286
+Name: GBF, dtype: float64"
+80,['81.  Please tell me how friendly or hostile A typical member of the Russian elites thinks NATO is toward Russia today.'],"{'Very hostile': [84.81964532197824, 7.77233365857337]}","Very hostile       0.426778
+Rather hostile     0.359833
+Neutral            0.175732
+Rather friendly    0.029289
+99.0               0.008368
+Name: NATOF, dtype: float64","Very hostile       0.432692
+Rather hostile     0.307692
+Neutral            0.211538
+Rather friendly    0.038462
+99.0               0.009615
+Name: NATOF, dtype: float64","Very hostile       0.422222
+Rather hostile     0.400000
+Neutral            0.148148
+Rather friendly    0.022222
+99.0               0.007407
+Name: NATOF, dtype: float64"
+81,['82.  To what degree A typical member of the Russian elites agrees with the statement that in any society it will always be necessary to prohibit the public expression of dangerous ideas?'],"{'Completely agree': [59.675132777249274, 5.450121344383289], 'Completely disagree': [60.85962974400314, 8.301700457329114], 'Neither agree nor disagree': [55.50357645888256, 1.165475913668985]}","(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.366255
+Mostly agree                                                                 0.226337
+(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.201646
+(2008 to 2020) Completely disagree                                           0.119342
+Completely agree                                                             0.086420
+Name: DANIDEA, dtype: float64","(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.352381
+Mostly agree                                                                 0.323810
+(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.133333
+Completely agree                                                             0.104762
+(2008 to 2020) Completely disagree                                           0.085714
+Name: DANIDEA, dtype: float64","(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.376812
+(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.253623
+Mostly agree                                                                 0.152174
+(2008 to 2020) Completely disagree                                           0.144928
+Completely agree                                                             0.072464
+Name: DANIDEA, dtype: float64"
+82,['83.  To what degree A typical member of the Russian elites agrees with the statement that the rights of the individual should be protected even if guilty people sometimes go free?'],"{'Completely agree': [69.12996945008746, 8.678627268223886], 'Completely disagree': [62.77479792411263, 0], 'Neither agree nor disagree': [51.909896440662095, 1.4322904150106643]}","Mostly agree                                                                 0.432773
+(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.201681
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.168067
+Completely agree                                                             0.105042
+(2008 to 2020) Completely disagree                                           0.092437
+Name: DEFINDIV, dtype: float64","Mostly agree                                                                 0.366337
+(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.247525
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.237624
+(2008 to 2020) Completely disagree                                           0.089109
+Completely agree                                                             0.059406
+Name: DEFINDIV, dtype: float64","Mostly agree                                                                 0.481752
+(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.167883
+Completely agree                                                             0.138686
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.116788
+(2008 to 2020) Completely disagree                                           0.094891
+Name: DEFINDIV, dtype: float64"
+83,['84.  To what degree A typical member of the Russian elites agrees with the statement that  the interests of society should be protected even if innocent people sometimes end up in prison?'],"{'Completely agree': [56.9680566173702, 0.2074302427410639], 'Completely disagree': [67.9111358465282, 13.559402922223214], 'Neither agree nor disagree': [54.26731992365434, 7.836667848035733]}","(2008 to 2020) Completely disagree                                           0.341667
+(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.333333
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.179167
+Mostly agree                                                                 0.129167
+Completely agree                                                             0.016667
+Name: DEFSOC, dtype: float64","(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.359223
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.242718
+(2008 to 2020) Completely disagree                                           0.194175
+Mostly agree                                                                 0.174757
+Completely agree                                                             0.029126
+Name: DEFSOC, dtype: float64","(2008 to 2020) Completely disagree                                           0.452555
+(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.313869
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.131387
+Mostly agree                                                                 0.094891
+Completely agree                                                             0.007299
+Name: DEFSOC, dtype: float64"
+84,"['85.  To what degree A typical member of the Russian elites agrees with the statement that of all the philosophies that exist in the world, only one is undoubtedly correct?']","{'Completely agree': [56.585954374797396, 11.908948204756634], 'Completely disagree': [62.31312574846702, 10.779056519534933], 'Neither agree nor disagree': [55.36101797690495, 0.6937769071897005]}","(2008 to 2020) Completely disagree                                           0.336170
+(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.289362
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.187234
+Mostly agree                                                                 0.170213
+Completely agree                                                             0.017021
+Name: ONEPHILO, dtype: float64","(2008 to 2020) Completely disagree                                           0.313131
+(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.303030
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.181818
+Mostly agree                                                                 0.171717
+Completely agree                                                             0.030303
+Name: ONEPHILO, dtype: float64","(2008 to 2020) Completely disagree                                           0.352941
+(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.279412
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.191176
+Mostly agree                                                                 0.169118
+Completely agree                                                             0.007353
+Name: ONEPHILO, dtype: float64"
+85,['86.  To what degree A typical member of the Russian elites agrees with the statement that  human nature is basically cooperative?'],"{'Completely agree': [54.763683505377124, 11.34136796627885], 'Neither agree nor disagree': [69.73854202754818, 11.329296087066]}","Mostly agree                                                         0.459016
+Completely agree                                                     0.331967
+(1993 to 2004) Mostly disagree; (2020) Neither agree nor disagree    0.139344
+(1993 to 2004) Completely disagree; (2020) Mostly disagree           0.057377
+(2020) Completely disagree                                           0.012295
+Name: HUMCOOP, dtype: float64","Mostly agree                                                         0.476190
+Completely agree                                                     0.295238
+(1993 to 2004) Mostly disagree; (2020) Neither agree nor disagree    0.114286
+(1993 to 2004) Completely disagree; (2020) Mostly disagree           0.085714
+(2020) Completely disagree                                           0.028571
+Name: HUMCOOP, dtype: float64","Mostly agree                                                         0.446043
+Completely agree                                                     0.359712
+(1993 to 2004) Mostly disagree; (2020) Neither agree nor disagree    0.158273
+(1993 to 2004) Completely disagree; (2020) Mostly disagree           0.035971
+(2020) Completely disagree                                           0.000000
+Name: HUMCOOP, dtype: float64"
+86,"['87.  To what degree A typical member of the Russian elites agrees with the statement that  the idea of ""Russia is for Russians [russkikh]!""? ']","{'Completely agree': [73.41462053023575, 16.644956256456794], 'Completely disagree': [49.116628133305944, 0], 'Neither agree nor disagree': [55.3366305401476, 0]}","Mostly disagree               0.365145
+Completely disagree           0.232365
+Mostly agree                  0.157676
+Neither agree nor disagree    0.153527
+Completely agree              0.091286
+Name: RUSSIAFORRUS, dtype: float64","Mostly disagree               0.359223
+Completely disagree           0.223301
+Neither agree nor disagree    0.165049
+Mostly agree                  0.155340
+Completely agree              0.097087
+Name: RUSSIAFORRUS, dtype: float64","Mostly disagree               0.369565
+Completely disagree           0.239130
+Mostly agree                  0.159420
+Neither agree nor disagree    0.144928
+Completely agree              0.086957
+Name: RUSSIAFORRUS, dtype: float64"
+87,"[""88.  To what degree A typical member of the Russian elites agrees with the statement that Stalin is blamed for things he didn't do?""]","{'Completely disagree': [67.83056735557246, 5.543093470471238], 'Neither agree nor disagree': [61.636659023243126, 9.241239322614861]}","(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.368664
+(2008 to 2020) Completely disagree                                           0.317972
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.207373
+Mostly agree                                                                 0.069124
+Completely agree                                                             0.036866
+Name: STALIN, dtype: float64","(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.365591
+(2008 to 2020) Completely disagree                                           0.322581
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.225806
+Mostly agree                                                                 0.053763
+Completely agree                                                             0.032258
+Name: STALIN, dtype: float64","(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.370968
+(2008 to 2020) Completely disagree                                           0.314516
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.193548
+Mostly agree                                                                 0.080645
+Completely agree                                                             0.040323
+Name: STALIN, dtype: float64"
+88,['89.  To what degree A typical member of the Russian elites agrees with the statement that  competition among various political parties will make our political system stronger? '],"{'Completely agree': [59.79591321913287, 15.58976039351685], 'Completely disagree': [50.276995973679504, 0], 'Neither agree nor disagree': [62.65468775523049, 4.434140185173953]}","Mostly agree                                                                 0.301255
+(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.263598
+Completely agree                                                             0.179916
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.171548
+(2008 to 2020) Completely disagree                                           0.083682
+Name: COMPPOL, dtype: float64","Mostly agree                                                                 0.300971
+(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.271845
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.213592
+Completely agree                                                             0.126214
+(2008 to 2020) Completely disagree                                           0.087379
+Name: COMPPOL, dtype: float64","Mostly agree                                                                 0.301471
+(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.257353
+Completely agree                                                             0.220588
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.139706
+(2008 to 2020) Completely disagree                                           0.080882
+Name: COMPPOL, dtype: float64"
+89,"['90.  To what degree A typical member of the Russian elites agrees with the statement that  competition among enterprises, firms, and organizations benefits our society?']","{'Completely agree': [74.48393842438819, 6.5338585676770276], 'Neither agree nor disagree': [63.10007463735684, 6.583438573974139]}","Mostly agree                                                                 0.522449
+Completely agree                                                             0.216327
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.212245
+(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.036735
+(2008 to 2020) Completely disagree                                           0.012245
+Name: COMPECO, dtype: float64","Mostly agree                                                                 0.580952
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.219048
+Completely agree                                                             0.152381
+(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.038095
+(2008 to 2020) Completely disagree                                           0.009524
+Name: COMPECO, dtype: float64","Mostly agree                                                                 0.478571
+Completely agree                                                             0.264286
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.207143
+(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.035714
+(2008 to 2020) Completely disagree                                           0.014286
+Name: COMPECO, dtype: float64"
+90,"['91.  To what degree A typical member of the Russian elites agrees with the statement that  it is normal when the owner of a prosperous enterprise, using the labor of his workers, becomes richer than other people?']","{'Completely agree': [77.876887687892, 0.7546685519797095], 'Completely disagree': [55.227868277742274, 0], 'Neither agree nor disagree': [50.07438785852195, 3.6901451972024004]}","Mostly agree                                                                 0.460905
+Completely agree                                                             0.271605
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.144033
+(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.106996
+(2008 to 2020) Completely disagree                                           0.016461
+Name: RICHER, dtype: float64","Mostly agree                                                                 0.552381
+Completely agree                                                             0.180952
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.133333
+(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.114286
+(2008 to 2020) Completely disagree                                           0.019048
+Name: RICHER, dtype: float64","Mostly agree                                                                 0.391304
+Completely agree                                                             0.340580
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.152174
+(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.101449
+(2008 to 2020) Completely disagree                                           0.014493
+Name: RICHER, dtype: float64"
+91,['92.  To what degree A typical member of the Russian elites agrees with the statement that there is no sense in starting a new business since it might fail? '],"{'Completely agree': [61.86635389810711, 10.554610380916957], 'Completely disagree': [58.26101749797253, 4.18827928196099], 'Neither agree nor disagree': [58.14015459034475, 3.2184251097974763]}","(2008 to 2020) Completely disagree                                           0.481481
+(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.362140
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.078189
+Mostly agree                                                                 0.061728
+Completely agree                                                             0.016461
+Name: NEWBUSI, dtype: float64","(2008 to 2020) Completely disagree                                           0.423077
+(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.336538
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.125000
+Mostly agree                                                                 0.096154
+Completely agree                                                             0.019231
+Name: NEWBUSI, dtype: float64","(2008 to 2020) Completely disagree                                           0.525180
+(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.381295
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.043165
+Mostly agree                                                                 0.035971
+Completely agree                                                             0.014388
+Name: NEWBUSI, dtype: float64"
+92,['93.  To what degree A typical member of the Russian elites agrees with the statement that  all heavy industry should belong to the state and not be privately owned?'],"{'Completely agree': [52.44473486888109, 0], 'Completely disagree': [64.57967730528, 19.132308759762395], 'Neither agree nor disagree': [56.015777197404034, 6.577086490073172]}","Mostly agree                                                                 0.295359
+Completely agree                                                             0.274262
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.253165
+(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.143460
+(2008 to 2020) Completely disagree                                           0.033755
+Name: STATEIND, dtype: float64","Mostly agree                                                                 0.326733
+Completely agree                                                             0.257426
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.237624
+(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.138614
+(2008 to 2020) Completely disagree                                           0.039604
+Name: STATEIND, dtype: float64","Completely agree                                                             0.286765
+Mostly agree                                                                 0.272059
+(1993 to 2004) Mostly disagree; (2008 to 2020) Neither agree nor disagree    0.264706
+(1993 to 2004) Completely disagree; (2008 to 2020) Mostly disagree           0.147059
+(2008 to 2020) Completely disagree                                           0.029412
+Name: STATEIND, dtype: float64"
+93,['94.  To what degree A typical member of the Russian elites agrees with the statement that  the most important thing for a leader is to follow his convictions and not give in to public pressure?'],"{'Completely agree': [82.24663743880377, 4.0994548180021075], 'Completely disagree': [57.31539068450794, 0], 'Neither agree nor disagree': [64.35858613136114, 7.466004063487286]}","Mostly agree                                                                 0.359184
+Completely agree                                                             0.232653
+(1993 to 2004) Mostly disagree; (2016 to 2020) Neither agree nor disagree    0.204082
+(1993 to 2004) Completely disagree; (2016 to 2020) Mostly disagree           0.142857
+(2016 to 2020) Completely disagree                                           0.061224
+Name: LEADERBE, dtype: float64","Mostly agree                                                                 0.438095
+Completely agree                                                             0.228571
+(1993 to 2004) Mostly disagree; (2016 to 2020) Neither agree nor disagree    0.180952
+(1993 to 2004) Completely disagree; (2016 to 2020) Mostly disagree           0.095238
+(2016 to 2020) Completely disagree                                           0.057143
+Name: LEADERBE, dtype: float64","Mostly agree                                                                 0.300000
+Completely agree                                                             0.235714
+(1993 to 2004) Mostly disagree; (2016 to 2020) Neither agree nor disagree    0.221429
+(1993 to 2004) Completely disagree; (2016 to 2020) Mostly disagree           0.178571
+(2016 to 2020) Completely disagree                                           0.064286
+Name: LEADERBE, dtype: float64"
+94,['95.  To what degree A typical member of the Russian elites agrees with the statement that  those people who do not observe Russian traditions and customs cannot become true Russians [rossiyanami]?'],"{'Completely agree': [56.003716417605254, 10.415087282567631], 'Completely disagree': [68.08860597319344, 0], 'Neither agree nor disagree': [49.88403110814009, 3.3975393468731605]}","Mostly agree                  0.436975
+Completely agree              0.197479
+Mostly disagree               0.151261
+Neither agree nor disagree    0.147059
+Completely disagree           0.067227
+Name: RUSSTRADIT, dtype: float64","Mostly agree                  0.411765
+Completely agree              0.225490
+Mostly disagree               0.176471
+Neither agree nor disagree    0.166667
+Completely disagree           0.019608
+Name: RUSSTRADIT, dtype: float64","Mostly agree                  0.455882
+Completely agree              0.176471
+Mostly disagree               0.132353
+Neither agree nor disagree    0.132353
+Completely disagree           0.102941
+Name: RUSSTRADIT, dtype: float64"
+95,['96.  To what degree A typical member of the Russian elites agrees with the statement that  homosexuality can never be justified?'],"{'Completely disagree': [77.89192183460285, 16.832926497534864], 'Neither agree nor disagree': [55.76984820560676, 13.675463951947686]}","Completely agree              0.358696
+Mostly agree                  0.255435
+Neither agree nor disagree    0.173913
+Mostly disagree               0.141304
+Completely disagree           0.070652
+Name: HOMOSEX, dtype: float64","Completely agree              0.435294
+Mostly agree                  0.305882
+Neither agree nor disagree    0.152941
+Mostly disagree               0.070588
+Completely disagree           0.035294
+Name: HOMOSEX, dtype: float64","Completely agree              0.292929
+Mostly agree                  0.212121
+Mostly disagree               0.202020
+Neither agree nor disagree    0.191919
+Completely disagree           0.101010
+Name: HOMOSEX, dtype: float64"
+96,['97.  To what degree A typical member of the Russian elites agrees with the statement that  abortion can never be justified.'],"{'Completely disagree': [69.11761846822978, 4.990168978401443], 'Neither agree nor disagree': [59.509287298299796, 8.420944429064338]}","Neither agree nor disagree    0.270718
+Mostly disagree               0.243094
+Mostly agree                  0.215470
+Completely disagree           0.171271
+Completely agree              0.099448
+Name: ABORTION, dtype: float64","Neither agree nor disagree    0.285714
+Mostly agree                  0.246753
+Mostly disagree               0.220779
+Completely disagree           0.155844
+Completely agree              0.090909
+Name: ABORTION, dtype: float64","Mostly disagree               0.259615
+Neither agree nor disagree    0.259615
+Mostly agree                  0.192308
+Completely disagree           0.182692
+Completely agree              0.105769
+Name: ABORTION, dtype: float64"
+97,['98.  To what degree A typical member of the Russian elites agrees with the statement that Russia is part of European civilization. '],"{'Completely agree': [65.70498529628355, 5.5514665274933455], 'Completely disagree': [63.52686768247321, 0.027990274095826724], 'Neither agree nor disagree': [63.0997791439665, 3.4997379044545602]}","Mostly agree                  0.534694
+Completely agree              0.253061
+Neither agree nor disagree    0.179592
+Mostly disagree               0.020408
+Completely disagree           0.012245
+Name: EURCIV, dtype: float64","Mostly agree                  0.476190
+Completely agree              0.276190
+Neither agree nor disagree    0.180952
+Mostly disagree               0.047619
+Completely disagree           0.019048
+Name: EURCIV, dtype: float64","Mostly agree                  0.578571
+Completely agree              0.235714
+Neither agree nor disagree    0.178571
+Completely disagree           0.007143
+Mostly disagree               0.000000
+Name: EURCIV, dtype: float64"
+98,['99.  Which of these statements is closer to A typical member of the Russian elites’s point of view?'],"{'Taking into account the history and geographic position of Russia at the crossroads of Europe and Asia, it should follow a unique Russian path.': [89.61859333001348, 7.918466857968955]}","Taking into acct. the history & geo. posn. of Russ. at the x-roads of Eur. & Asia, it should follow a unique Russ. path.    0.695473
+Russia should follow the path of developed countries & assimilate the experience & achievements of Western civilization.    0.300412
+99.0                                                                                                                        0.004115
+Name: EUROPHIL, dtype: float64","Taking into acct. the history & geo. posn. of Russ. at the x-roads of Eur. & Asia, it should follow a unique Russ. path.    0.788462
+Russia should follow the path of developed countries & assimilate the experience & achievements of Western civilization.    0.201923
+99.0                                                                                                                        0.009615
+Name: EUROPHIL, dtype: float64","Taking into acct. the history & geo. posn. of Russ. at the x-roads of Eur. & Asia, it should follow a unique Russ. path.    0.625899
+Russia should follow the path of developed countries & assimilate the experience & achievements of Western civilization.    0.374101
+99.0                                                                                                                        0.000000
+Name: EUROPHIL, dtype: float64"
+99,"['100.  In the last twenty years since the year 2000, according to A typical member of the Russian elites, corruption on the part of state officials']","{'Decreased': [57.99227580999982, 0], 'Increased': [83.99083191785783, 4.312365172126845], 'Remained unchanged': [47.94867106779798, 0]}","1. Increased             0.440171
+2. Decreased             0.329060
+3. Remained unchanged    0.230769
+Name: EVPUCORR, dtype: float64","2. Decreased             0.474227
+1. Increased             0.268041
+3. Remained unchanged    0.257732
+Name: EVPUCORR, dtype: float64","1. Increased             0.562044
+2. Decreased             0.226277
+3. Remained unchanged    0.211679
+Name: EVPUCORR, dtype: float64"
+100,"['101.  In the last twenty years since the year 2000, according to A typical member of the Russian elites, income inequality']","{'Increased': [68.52446047502842, 23.238190777894456], 'Remained unchanged': [37.11018966656205, 0]}","1. Increased             0.660944
+3. Remained unchanged    0.214592
+2. Decreased             0.124464
+Name: EVPUINEQ, dtype: float64","1. Increased             0.545455
+3. Remained unchanged    0.303030
+2. Decreased             0.151515
+Name: EVPUINEQ, dtype: float64","1. Increased             0.746269
+3. Remained unchanged    0.149254
+2. Decreased             0.104478
+Name: EVPUINEQ, dtype: float64"
+101,"['102.  In the last twenty years since the year 2000, according to A typical member of the Russian elites, political stability in Russia']","{'Decreased': [66.88414115131778, 0], 'Increased': [82.53440942450437, 1.9801972058632722], 'Remained unchanged': [59.37506673617175, 6.200867546921091]}","1. Increased             0.634454
+3. Remained unchanged    0.235294
+2. Decreased             0.130252
+Name: EVPUPOLST, dtype: float64","1. Increased             0.708738
+3. Remained unchanged    0.184466
+2. Decreased             0.106796
+Name: EVPUPOLST, dtype: float64","1. Increased             0.577778
+3. Remained unchanged    0.274074
+2. Decreased             0.148148
+Name: EVPUPOLST, dtype: float64"
+102,"['103.  In the last twenty years since the year 2000, according to A typical member of the Russian elites, the influence of Russia in the world']","{'Decreased': [80.87272605385695, 6.377669276446911], 'Increased': [81.04585598868621, 6.810491974807313]}","1. Increased             0.807377
+3. Remained unchanged    0.118852
+2. Decreased             0.073770
+Name: EVPUINFL, dtype: float64","1. Increased             0.846154
+2. Decreased             0.076923
+3. Remained unchanged    0.076923
+Name: EVPUINFL, dtype: float64","1. Increased             0.778571
+3. Remained unchanged    0.150000
+2. Decreased             0.071429
+Name: EVPUINFL, dtype: float64"
+103,"['104.  In the last twenty years since the year 2000, according to A typical member of the Russian elites, democracy and human rights in Russia']","{'Decreased': [89.8189353188515, 2.6788600754271314], 'Increased': [66.34397869291057, 0], 'Remained unchanged': [60.192742344656835, 0]}","3. Remained unchanged    0.386364
+1. Increased             0.327273
+2. Decreased             0.286364
+Name: EVPUDEMO, dtype: float64","3. Remained unchanged    0.427083
+1. Increased             0.416667
+2. Decreased             0.156250
+Name: EVPUDEMO, dtype: float64","2. Decreased             0.387097
+3. Remained unchanged    0.354839
+1. Increased             0.258065
+Name: EVPUDEMO, dtype: float64"
+104,"['105.  In the last twenty years since the year 2000, according to A typical member of the Russian elites, the responsiveness of the state to the needs of the population']","{'Decreased': [77.67132290701396, 8.760282853947201], 'Increased': [73.12583024285018, 5.353646926064491]}","1. Increased             0.460251
+3. Remained unchanged    0.297071
+2. Decreased             0.242678
+Name: EVPURESPONSE, dtype: float64","1. Increased             0.557692
+3. Remained unchanged    0.288462
+2. Decreased             0.153846
+Name: EVPURESPONSE, dtype: float64","1. Increased             0.385185
+2. Decreased             0.311111
+3. Remained unchanged    0.303704
+Name: EVPURESPONSE, dtype: float64"
+105,"['106.  In the last twenty years since the year 2000, according to A typical member of the Russian elites, the population’s standard of living']","{'Decreased': [56.689068334358055, 10.767147926606205], 'Increased': [89.13491024293671, 3.5476136406686254]}","2. Decreased             0.42654
+1. Increased             0.36019
+3. Remained unchanged    0.21327
+Name: EVPULIV, dtype: float64","1. Increased             0.473118
+2. Decreased             0.311828
+3. Remained unchanged    0.215054
+Name: EVPULIV, dtype: float64","2. Decreased             0.516949
+1. Increased             0.271186
+3. Remained unchanged    0.211864
+Name: EVPULIV, dtype: float64"
+106,"['107.  In the last twenty years since the year 2000, according to A typical member of the Russian elites, respect for Russia in the world']","{'Decreased': [81.50207049513148, 11.98322482061086], 'Increased': [72.74200871298534, 6.282804425438273]}","1. Increased             0.697479
+3. Remained unchanged    0.193277
+2. Decreased             0.109244
+Name: EVPURESPECT, dtype: float64","1. Increased             0.740385
+3. Remained unchanged    0.211538
+2. Decreased             0.048077
+Name: EVPURESPECT, dtype: float64","1. Increased             0.664179
+3. Remained unchanged    0.179104
+2. Decreased             0.156716
+Name: EVPURESPECT, dtype: float64"
+107,"['108.  In the last twenty years since the year 2000, according to A typical member of the Russian elites, morality and Christian values in Russia']","{'Decreased': [87.97377135025789, 4.210112227533984], 'Increased': [66.10495754418992, 3.7092798500574116], 'Remained unchanged': [42.26047009441026, 0]}","3. Remained unchanged    0.531915
+1. Increased             0.289362
+2. Decreased             0.178723
+Name: EVPUMORAL, dtype: float64","3. Remained unchanged    0.504950
+1. Increased             0.366337
+2. Decreased             0.128713
+Name: EVPUMORAL, dtype: float64","3. Remained unchanged    0.552239
+1. Increased             0.231343
+2. Decreased             0.216418
+Name: EVPUMORAL, dtype: float64"
+108,"['109.  In the last twenty years since the year 2000, according to A typical member of the Russian elites, military readiness and strength']","{'Decreased': [71.79539747150768, 11.433154300963022], 'Increased': [83.8502218297578, 9.54092399923836]}","1. Increased             0.872428
+3. Remained unchanged    0.098765
+2. Decreased             0.028807
+Name: EVPUMIL, dtype: float64","1. Increased             0.903846
+3. Remained unchanged    0.086538
+2. Decreased             0.009615
+Name: EVPUMIL, dtype: float64","1. Increased             0.848921
+3. Remained unchanged    0.107914
+2. Decreased             0.043165
+Name: EVPUMIL, dtype: float64"
+109,"['110.  In the last twenty years since the year 2000, according to A typical member of the Russian elites, integration of the post-Soviet space']","{'Decreased': [55.355628074602635, 9.647478984208426], 'Increased': [77.58945822811127, 8.707335965554384]}","3. Remained unchanged    0.437209
+1. Increased             0.334884
+2. Decreased             0.227907
+Name: EVPUINTEGR, dtype: float64","3. Remained unchanged    0.412371
+1. Increased             0.350515
+2. Decreased             0.237113
+Name: EVPUINTEGR, dtype: float64","3. Remained unchanged    0.457627
+1. Increased             0.322034
+2. Decreased             0.220339
+Name: EVPUINTEGR, dtype: float64"
+110,"['111.  At the present time, immigrants -- citizens of other countries, including the former Soviet republics -- live in Russia. A typical member of the Russian elites thinks that immigrants are helpful for the development of the Russian economy.']","{'Mostly agree': [51.08395628704925, 13.550381935151798], 'Mostly disagree': [41.39361155970974, 16.07209801946337]}","Mostly agree           0.356846
+Mostly disagree        0.356846
+Completely disagree    0.236515
+Completely agree       0.049793
+Name: IMMIGECON, dtype: float64","Mostly disagree        0.413462
+Mostly agree           0.384615
+Completely disagree    0.153846
+Completely agree       0.048077
+Name: IMMIGECON, dtype: float64","Mostly agree           0.335766
+Mostly disagree        0.313869
+Completely disagree    0.299270
+Completely agree       0.051095
+Name: IMMIGECON, dtype: float64"
+111,"['112.  At the present time, immigrants -- citizens of other countries, including the former Soviet republics -- live in Russia. A typical member of the Russian elites thinks that immigrants take jobs away from Russians.']","{'Completely agree': [36.58035914837097, 6.868989714753031], 'Completely disagree': [40.82630176248573, 14.733813122984971], 'Mostly agree': [48.377362207243365, 14.515267423345596], 'Mostly disagree': [33.16745573556121, 12.178736857024585]}","Mostly disagree        0.495726
+Mostly agree           0.260684
+Completely agree       0.183761
+Completely disagree    0.059829
+Name: IMMIGJOBS, dtype: float64","Mostly disagree        0.556701
+Mostly agree           0.247423
+Completely agree       0.134021
+Completely disagree    0.061856
+Name: IMMIGJOBS, dtype: float64","Mostly disagree        0.452555
+Mostly agree           0.270073
+Completely agree       0.218978
+Completely disagree    0.058394
+Name: IMMIGJOBS, dtype: float64"
+112,"['113.  At the present time, immigrants -- citizens of other countries, including the former Soviet republics -- live in Russia. A typical member of the Russian elites thinks that immigrants make Russia more open to new ideas and cultural influences.']","{'Mostly agree': [53.332320693337934, 12.864433102867615], 'Mostly disagree': [40.145624681970276, 4.611416737664053]}","Mostly disagree        0.371795
+Completely disagree    0.273504
+Mostly agree           0.260684
+Completely agree       0.094017
+Name: IMMIGOPEN, dtype: float64","Mostly disagree        0.366337
+Mostly agree           0.287129
+Completely disagree    0.237624
+Completely agree       0.108911
+Name: IMMIGOPEN, dtype: float64","Mostly disagree        0.375940
+Completely disagree    0.300752
+Mostly agree           0.240602
+Completely agree       0.082707
+Name: IMMIGOPEN, dtype: float64"
+113,"['114.  At the present time, immigrants -- citizens of other countries, including the former Soviet republics -- live in Russia. A typical member of the Russian elites thinks that immigrants cause an increase in the crime rate.']","{'Completely agree': [35.93214957806291, 8.388080882690682], 'Completely disagree': [34.374544665188175, 11.11088714118718], 'Mostly agree': [51.561246272275426, 16.141938939010398], 'Mostly disagree': [37.44553104115745, 9.05633975056927]}","Mostly agree           0.469565
+Mostly disagree        0.278261
+Completely agree       0.200000
+Completely disagree    0.052174
+Name: IMMIGCRIME, dtype: float64","Mostly agree           0.463918
+Mostly disagree        0.298969
+Completely agree       0.185567
+Completely disagree    0.051546
+Name: IMMIGCRIME, dtype: float64","Mostly agree           0.473684
+Mostly disagree        0.263158
+Completely agree       0.210526
+Completely disagree    0.052632
+Name: IMMIGCRIME, dtype: float64"
+114,['115.  How does A typical member of the Russian elites feel about workers?'],"{'Dislikes': [71.34687277646859, 6.874995499198379]}","0.0     NaN
+73.0    NaN
+98.0    NaN
+97.0    NaN
+96.0    NaN
+95.0    NaN
+92.0    NaN
+90.0    NaN
+88.0    NaN
+85.0    NaN
+80.0    NaN
+78.0    NaN
+76.0    NaN
+75.0    NaN
+70.0    NaN
+8.0     NaN
+66.0    NaN
+65.0    NaN
+64.0    NaN
+60.0    NaN
+56.0    NaN
+55.0    NaN
+52.0    NaN
+50.0    NaN
+40.0    NaN
+30.0    NaN
+20.0    NaN
+10.0    NaN
+100.0   NaN
+Name: FEELWRKRS, dtype: float64","0.0     NaN
+73.0    NaN
+98.0    NaN
+97.0    NaN
+96.0    NaN
+95.0    NaN
+92.0    NaN
+90.0    NaN
+88.0    NaN
+85.0    NaN
+80.0    NaN
+78.0    NaN
+76.0    NaN
+75.0    NaN
+70.0    NaN
+8.0     NaN
+66.0    NaN
+65.0    NaN
+64.0    NaN
+60.0    NaN
+56.0    NaN
+55.0    NaN
+52.0    NaN
+50.0    NaN
+40.0    NaN
+30.0    NaN
+20.0    NaN
+10.0    NaN
+100.0   NaN
+Name: FEELWRKRS, dtype: float64","0.0     NaN
+73.0    NaN
+98.0    NaN
+97.0    NaN
+96.0    NaN
+95.0    NaN
+92.0    NaN
+90.0    NaN
+88.0    NaN
+85.0    NaN
+80.0    NaN
+78.0    NaN
+76.0    NaN
+75.0    NaN
+70.0    NaN
+8.0     NaN
+66.0    NaN
+65.0    NaN
+64.0    NaN
+60.0    NaN
+56.0    NaN
+55.0    NaN
+52.0    NaN
+50.0    NaN
+40.0    NaN
+30.0    NaN
+20.0    NaN
+10.0    NaN
+100.0   NaN
+Name: FEELWRKRS, dtype: float64"
+115,['116.  How does A typical member of the Russian elites feel about Jews?'],"{'Dislikes': [52.6084467859395, 9.003683100913122], 'Neutral': [32.919164177710734, 0]}","0.0     NaN
+50.0    NaN
+99.0    NaN
+95.0    NaN
+90.0    NaN
+85.0    NaN
+80.0    NaN
+78.0    NaN
+77.0    NaN
+75.0    NaN
+70.0    NaN
+66.0    NaN
+65.0    NaN
+60.0    NaN
+58.0    NaN
+55.0    NaN
+45.0    NaN
+1.0     NaN
+40.0    NaN
+39.0    NaN
+35.0    NaN
+34.0    NaN
+30.0    NaN
+29.0    NaN
+25.0    NaN
+23.0    NaN
+21.0    NaN
+20.0    NaN
+15.0    NaN
+12.0    NaN
+10.0    NaN
+5.0     NaN
+100.0   NaN
+Name: FEELJEWS, dtype: float64","0.0     NaN
+50.0    NaN
+99.0    NaN
+95.0    NaN
+90.0    NaN
+85.0    NaN
+80.0    NaN
+78.0    NaN
+77.0    NaN
+75.0    NaN
+70.0    NaN
+66.0    NaN
+65.0    NaN
+60.0    NaN
+58.0    NaN
+55.0    NaN
+45.0    NaN
+1.0     NaN
+40.0    NaN
+39.0    NaN
+35.0    NaN
+34.0    NaN
+30.0    NaN
+29.0    NaN
+25.0    NaN
+23.0    NaN
+21.0    NaN
+20.0    NaN
+15.0    NaN
+12.0    NaN
+10.0    NaN
+5.0     NaN
+100.0   NaN
+Name: FEELJEWS, dtype: float64","0.0     NaN
+50.0    NaN
+99.0    NaN
+95.0    NaN
+90.0    NaN
+85.0    NaN
+80.0    NaN
+78.0    NaN
+77.0    NaN
+75.0    NaN
+70.0    NaN
+66.0    NaN
+65.0    NaN
+60.0    NaN
+58.0    NaN
+55.0    NaN
+45.0    NaN
+1.0     NaN
+40.0    NaN
+39.0    NaN
+35.0    NaN
+34.0    NaN
+30.0    NaN
+29.0    NaN
+25.0    NaN
+23.0    NaN
+21.0    NaN
+20.0    NaN
+15.0    NaN
+12.0    NaN
+10.0    NaN
+5.0     NaN
+100.0   NaN
+Name: FEELJEWS, dtype: float64"
+116,['117.  How does A typical member of the Russian elites feel about Immigrants?'],"{'Dislikes': [61.04809585421314, 9.023519955733713]}","0.0     NaN
+50.0    NaN
+95.0    NaN
+90.0    NaN
+80.0    NaN
+75.0    NaN
+70.0    NaN
+65.0    NaN
+64.0    NaN
+62.0    NaN
+60.0    NaN
+57.0    NaN
+56.0    NaN
+55.0    NaN
+54.0    NaN
+52.0    NaN
+49.0    NaN
+5.0     NaN
+46.0    NaN
+45.0    NaN
+42.0    NaN
+40.0    NaN
+35.0    NaN
+33.0    NaN
+30.0    NaN
+25.0    NaN
+23.0    NaN
+20.0    NaN
+15.0    NaN
+11.0    NaN
+10.0    NaN
+8.0     NaN
+100.0   NaN
+Name: FEELIMMIG, dtype: float64","0.0     NaN
+50.0    NaN
+95.0    NaN
+90.0    NaN
+80.0    NaN
+75.0    NaN
+70.0    NaN
+65.0    NaN
+64.0    NaN
+62.0    NaN
+60.0    NaN
+57.0    NaN
+56.0    NaN
+55.0    NaN
+54.0    NaN
+52.0    NaN
+49.0    NaN
+5.0     NaN
+46.0    NaN
+45.0    NaN
+42.0    NaN
+40.0    NaN
+35.0    NaN
+33.0    NaN
+30.0    NaN
+25.0    NaN
+23.0    NaN
+20.0    NaN
+15.0    NaN
+11.0    NaN
+10.0    NaN
+8.0     NaN
+100.0   NaN
+Name: FEELIMMIG, dtype: float64","0.0     NaN
+50.0    NaN
+95.0    NaN
+90.0    NaN
+80.0    NaN
+75.0    NaN
+70.0    NaN
+65.0    NaN
+64.0    NaN
+62.0    NaN
+60.0    NaN
+57.0    NaN
+56.0    NaN
+55.0    NaN
+54.0    NaN
+52.0    NaN
+49.0    NaN
+5.0     NaN
+46.0    NaN
+45.0    NaN
+42.0    NaN
+40.0    NaN
+35.0    NaN
+33.0    NaN
+30.0    NaN
+25.0    NaN
+23.0    NaN
+20.0    NaN
+15.0    NaN
+11.0    NaN
+10.0    NaN
+8.0     NaN
+100.0   NaN
+Name: FEELIMMIG, dtype: float64"
+117,['118.  How does A typical member of the Russian elites feel about Directors of state-owned enterprises?'],"{'Dislikes': [56.61350318367356, 0.7577831968062014], 'Likes': [47.646173076145075, 6.499411089573191], 'Neutral': [51.22076472878927, 2.4485418240797014]}","0.0     NaN
+65.0    NaN
+99.0    NaN
+96.0    NaN
+95.0    NaN
+94.0    NaN
+90.0    NaN
+88.0    NaN
+85.0    NaN
+80.0    NaN
+75.0    NaN
+73.0    NaN
+70.0    NaN
+69.0    NaN
+60.0    NaN
+5.0     NaN
+59.0    NaN
+55.0    NaN
+50.0    NaN
+48.0    NaN
+47.0    NaN
+45.0    NaN
+40.0    NaN
+30.0    NaN
+25.0    NaN
+20.0    NaN
+15.0    NaN
+10.0    NaN
+100.0   NaN
+Name: FEELDIRECT, dtype: float64","0.0     NaN
+65.0    NaN
+99.0    NaN
+96.0    NaN
+95.0    NaN
+94.0    NaN
+90.0    NaN
+88.0    NaN
+85.0    NaN
+80.0    NaN
+75.0    NaN
+73.0    NaN
+70.0    NaN
+69.0    NaN
+60.0    NaN
+5.0     NaN
+59.0    NaN
+55.0    NaN
+50.0    NaN
+48.0    NaN
+47.0    NaN
+45.0    NaN
+40.0    NaN
+30.0    NaN
+25.0    NaN
+20.0    NaN
+15.0    NaN
+10.0    NaN
+100.0   NaN
+Name: FEELDIRECT, dtype: float64","0.0     NaN
+65.0    NaN
+99.0    NaN
+96.0    NaN
+95.0    NaN
+94.0    NaN
+90.0    NaN
+88.0    NaN
+85.0    NaN
+80.0    NaN
+75.0    NaN
+73.0    NaN
+70.0    NaN
+69.0    NaN
+60.0    NaN
+5.0     NaN
+59.0    NaN
+55.0    NaN
+50.0    NaN
+48.0    NaN
+47.0    NaN
+45.0    NaN
+40.0    NaN
+30.0    NaN
+25.0    NaN
+20.0    NaN
+15.0    NaN
+10.0    NaN
+100.0   NaN
+Name: FEELDIRECT, dtype: float64"
+118,['119.  How does A typical member of the Russian elites feel about Muslims?'],"{'Dislikes': [60.98329154624658, 9.757421402507685]}","0.0     NaN
+58.0    NaN
+99.0    NaN
+95.0    NaN
+90.0    NaN
+80.0    NaN
+75.0    NaN
+74.0    NaN
+72.0    NaN
+70.0    NaN
+67.0    NaN
+65.0    NaN
+64.0    NaN
+63.0    NaN
+60.0    NaN
+55.0    NaN
+5.0     NaN
+53.0    NaN
+50.0    NaN
+45.0    NaN
+40.0    NaN
+35.0    NaN
+33.0    NaN
+30.0    NaN
+29.0    NaN
+25.0    NaN
+24.0    NaN
+20.0    NaN
+15.0    NaN
+10.0    NaN
+100.0   NaN
+Name: FEELMUSL, dtype: float64","0.0     NaN
+58.0    NaN
+99.0    NaN
+95.0    NaN
+90.0    NaN
+80.0    NaN
+75.0    NaN
+74.0    NaN
+72.0    NaN
+70.0    NaN
+67.0    NaN
+65.0    NaN
+64.0    NaN
+63.0    NaN
+60.0    NaN
+55.0    NaN
+5.0     NaN
+53.0    NaN
+50.0    NaN
+45.0    NaN
+40.0    NaN
+35.0    NaN
+33.0    NaN
+30.0    NaN
+29.0    NaN
+25.0    NaN
+24.0    NaN
+20.0    NaN
+15.0    NaN
+10.0    NaN
+100.0   NaN
+Name: FEELMUSL, dtype: float64","0.0     NaN
+58.0    NaN
+99.0    NaN
+95.0    NaN
+90.0    NaN
+80.0    NaN
+75.0    NaN
+74.0    NaN
+72.0    NaN
+70.0    NaN
+67.0    NaN
+65.0    NaN
+64.0    NaN
+63.0    NaN
+60.0    NaN
+55.0    NaN
+5.0     NaN
+53.0    NaN
+50.0    NaN
+45.0    NaN
+40.0    NaN
+35.0    NaN
+33.0    NaN
+30.0    NaN
+29.0    NaN
+25.0    NaN
+24.0    NaN
+20.0    NaN
+15.0    NaN
+10.0    NaN
+100.0   NaN
+Name: FEELMUSL, dtype: float64"
+119,['120.  How does A typical member of the Russian elites feel about Russians?'],"{'Dislikes': [42.19143700962133, 0], 'Likes': [42.478849192219556, 0], 'Neutral': [55.56721468041968, 5.105738740453469]}","0.0     NaN
+10.0    NaN
+99.0    NaN
+98.0    NaN
+96.0    NaN
+95.0    NaN
+90.0    NaN
+89.0    NaN
+85.0    NaN
+80.0    NaN
+79.0    NaN
+75.0    NaN
+70.0    NaN
+68.0    NaN
+60.0    NaN
+58.0    NaN
+50.0    NaN
+40.0    NaN
+30.0    NaN
+25.0    NaN
+20.0    NaN
+100.0   NaN
+Name: FEELRUSS, dtype: float64","0.0     NaN
+10.0    NaN
+99.0    NaN
+98.0    NaN
+96.0    NaN
+95.0    NaN
+90.0    NaN
+89.0    NaN
+85.0    NaN
+80.0    NaN
+79.0    NaN
+75.0    NaN
+70.0    NaN
+68.0    NaN
+60.0    NaN
+58.0    NaN
+50.0    NaN
+40.0    NaN
+30.0    NaN
+25.0    NaN
+20.0    NaN
+100.0   NaN
+Name: FEELRUSS, dtype: float64","0.0     NaN
+10.0    NaN
+99.0    NaN
+98.0    NaN
+96.0    NaN
+95.0    NaN
+90.0    NaN
+89.0    NaN
+85.0    NaN
+80.0    NaN
+79.0    NaN
+75.0    NaN
+70.0    NaN
+68.0    NaN
+60.0    NaN
+58.0    NaN
+50.0    NaN
+40.0    NaN
+30.0    NaN
+25.0    NaN
+20.0    NaN
+100.0   NaN
+Name: FEELRUSS, dtype: float64"
+120,['121.  How does A typical member of the Russian elites feel about Homosexuals?'],"{'Dislikes': [58.28179134711414, 10.098488673566647]}","0.0     NaN
+1.0     NaN
+99.0    NaN
+98.0    NaN
+90.0    NaN
+85.0    NaN
+80.0    NaN
+75.0    NaN
+70.0    NaN
+60.0    NaN
+50.0    NaN
+47.0    NaN
+45.0    NaN
+44.0    NaN
+42.0    NaN
+40.0    NaN
+35.0    NaN
+34.0    NaN
+30.0    NaN
+25.0    NaN
+20.0    NaN
+15.0    NaN
+14.0    NaN
+12.0    NaN
+10.0    NaN
+9.0     NaN
+6.0     NaN
+5.0     NaN
+4.0     NaN
+3.0     NaN
+2.0     NaN
+100.0   NaN
+Name: FEELGAY, dtype: float64","0.0     NaN
+1.0     NaN
+99.0    NaN
+98.0    NaN
+90.0    NaN
+85.0    NaN
+80.0    NaN
+75.0    NaN
+70.0    NaN
+60.0    NaN
+50.0    NaN
+47.0    NaN
+45.0    NaN
+44.0    NaN
+42.0    NaN
+40.0    NaN
+35.0    NaN
+34.0    NaN
+30.0    NaN
+25.0    NaN
+20.0    NaN
+15.0    NaN
+14.0    NaN
+12.0    NaN
+10.0    NaN
+9.0     NaN
+6.0     NaN
+5.0     NaN
+4.0     NaN
+3.0     NaN
+2.0     NaN
+100.0   NaN
+Name: FEELGAY, dtype: float64","0.0     NaN
+1.0     NaN
+99.0    NaN
+98.0    NaN
+90.0    NaN
+85.0    NaN
+80.0    NaN
+75.0    NaN
+70.0    NaN
+60.0    NaN
+50.0    NaN
+47.0    NaN
+45.0    NaN
+44.0    NaN
+42.0    NaN
+40.0    NaN
+35.0    NaN
+34.0    NaN
+30.0    NaN
+25.0    NaN
+20.0    NaN
+15.0    NaN
+14.0    NaN
+12.0    NaN
+10.0    NaN
+9.0     NaN
+6.0     NaN
+5.0     NaN
+4.0     NaN
+3.0     NaN
+2.0     NaN
+100.0   NaN
+Name: FEELGAY, dtype: float64"
+121,['122.  How does A typical member of the Russian elites feel about Businessmen?'],"{'Dislikes': [41.125751644486435, 0], 'Likes': [38.92992057722619, 3.744567280953048], 'Neutral': [52.20386228461997, 4.316433487496362]}","0.0     NaN
+1.0     NaN
+68.0    NaN
+70.0    NaN
+75.0    NaN
+77.0    NaN
+78.0    NaN
+79.0    NaN
+80.0    NaN
+85.0    NaN
+88.0    NaN
+89.0    NaN
+90.0    NaN
+92.0    NaN
+95.0    NaN
+98.0    NaN
+99.0    NaN
+67.0    NaN
+65.0    NaN
+63.0    NaN
+20.0    NaN
+2.0     NaN
+5.0     NaN
+8.0     NaN
+10.0    NaN
+12.0    NaN
+15.0    NaN
+25.0    NaN
+60.0    NaN
+30.0    NaN
+40.0    NaN
+45.0    NaN
+50.0    NaN
+55.0    NaN
+57.0    NaN
+100.0   NaN
+Name: FEELBUSI, dtype: float64","0.0     NaN
+1.0     NaN
+68.0    NaN
+70.0    NaN
+75.0    NaN
+77.0    NaN
+78.0    NaN
+79.0    NaN
+80.0    NaN
+85.0    NaN
+88.0    NaN
+89.0    NaN
+90.0    NaN
+92.0    NaN
+95.0    NaN
+98.0    NaN
+99.0    NaN
+67.0    NaN
+65.0    NaN
+63.0    NaN
+20.0    NaN
+2.0     NaN
+5.0     NaN
+8.0     NaN
+10.0    NaN
+12.0    NaN
+15.0    NaN
+25.0    NaN
+60.0    NaN
+30.0    NaN
+40.0    NaN
+45.0    NaN
+50.0    NaN
+55.0    NaN
+57.0    NaN
+100.0   NaN
+Name: FEELBUSI, dtype: float64","0.0     NaN
+1.0     NaN
+68.0    NaN
+70.0    NaN
+75.0    NaN
+77.0    NaN
+78.0    NaN
+79.0    NaN
+80.0    NaN
+85.0    NaN
+88.0    NaN
+89.0    NaN
+90.0    NaN
+92.0    NaN
+95.0    NaN
+98.0    NaN
+99.0    NaN
+67.0    NaN
+65.0    NaN
+63.0    NaN
+20.0    NaN
+2.0     NaN
+5.0     NaN
+8.0     NaN
+10.0    NaN
+12.0    NaN
+15.0    NaN
+25.0    NaN
+60.0    NaN
+30.0    NaN
+40.0    NaN
+45.0    NaN
+50.0    NaN
+55.0    NaN
+57.0    NaN
+100.0   NaN
+Name: FEELBUSI, dtype: float64"
+122,['123.  How does A typical member of the Russian elites feel about People from the Caucasus?'],"{'Dislikes': [70.97406906918033, 5.4935885202459955]}","0.0     NaN
+72.0    NaN
+55.0    NaN
+59.0    NaN
+60.0    NaN
+65.0    NaN
+70.0    NaN
+71.0    NaN
+75.0    NaN
+1.0     NaN
+78.0    NaN
+80.0    NaN
+85.0    NaN
+89.0    NaN
+90.0    NaN
+99.0    NaN
+53.0    NaN
+50.0    NaN
+45.0    NaN
+40.0    NaN
+38.0    NaN
+35.0    NaN
+33.0    NaN
+30.0    NaN
+25.0    NaN
+21.0    NaN
+20.0    NaN
+15.0    NaN
+13.0    NaN
+11.0    NaN
+10.0    NaN
+5.0     NaN
+3.0     NaN
+100.0   NaN
+Name: FEELCAUCUS, dtype: float64","0.0     NaN
+72.0    NaN
+55.0    NaN
+59.0    NaN
+60.0    NaN
+65.0    NaN
+70.0    NaN
+71.0    NaN
+75.0    NaN
+1.0     NaN
+78.0    NaN
+80.0    NaN
+85.0    NaN
+89.0    NaN
+90.0    NaN
+99.0    NaN
+53.0    NaN
+50.0    NaN
+45.0    NaN
+40.0    NaN
+38.0    NaN
+35.0    NaN
+33.0    NaN
+30.0    NaN
+25.0    NaN
+21.0    NaN
+20.0    NaN
+15.0    NaN
+13.0    NaN
+11.0    NaN
+10.0    NaN
+5.0     NaN
+3.0     NaN
+100.0   NaN
+Name: FEELCAUCUS, dtype: float64","0.0     NaN
+72.0    NaN
+55.0    NaN
+59.0    NaN
+60.0    NaN
+65.0    NaN
+70.0    NaN
+71.0    NaN
+75.0    NaN
+1.0     NaN
+78.0    NaN
+80.0    NaN
+85.0    NaN
+89.0    NaN
+90.0    NaN
+99.0    NaN
+53.0    NaN
+50.0    NaN
+45.0    NaN
+40.0    NaN
+38.0    NaN
+35.0    NaN
+33.0    NaN
+30.0    NaN
+25.0    NaN
+21.0    NaN
+20.0    NaN
+15.0    NaN
+13.0    NaN
+11.0    NaN
+10.0    NaN
+5.0     NaN
+3.0     NaN
+100.0   NaN
+Name: FEELCAUCUS, dtype: float64"
+123,['124.  How does A typical member of the Russian elites feel about Orthodox Christians?'],"{'Neutral': [62.91870264134973, 10.379602355059317]}","0.0     NaN
+76.0    NaN
+99.0    NaN
+97.0    NaN
+96.0    NaN
+95.0    NaN
+93.0    NaN
+92.0    NaN
+90.0    NaN
+88.0    NaN
+87.0    NaN
+85.0    NaN
+80.0    NaN
+79.0    NaN
+77.0    NaN
+75.0    NaN
+10.0    NaN
+70.0    NaN
+69.0    NaN
+66.0    NaN
+65.0    NaN
+60.0    NaN
+58.0    NaN
+55.0    NaN
+50.0    NaN
+45.0    NaN
+40.0    NaN
+35.0    NaN
+30.0    NaN
+20.0    NaN
+100.0   NaN
+Name: FEELORTH, dtype: float64","0.0     NaN
+76.0    NaN
+99.0    NaN
+97.0    NaN
+96.0    NaN
+95.0    NaN
+93.0    NaN
+92.0    NaN
+90.0    NaN
+88.0    NaN
+87.0    NaN
+85.0    NaN
+80.0    NaN
+79.0    NaN
+77.0    NaN
+75.0    NaN
+10.0    NaN
+70.0    NaN
+69.0    NaN
+66.0    NaN
+65.0    NaN
+60.0    NaN
+58.0    NaN
+55.0    NaN
+50.0    NaN
+45.0    NaN
+40.0    NaN
+35.0    NaN
+30.0    NaN
+20.0    NaN
+100.0   NaN
+Name: FEELORTH, dtype: float64","0.0     NaN
+76.0    NaN
+99.0    NaN
+97.0    NaN
+96.0    NaN
+95.0    NaN
+93.0    NaN
+92.0    NaN
+90.0    NaN
+88.0    NaN
+87.0    NaN
+85.0    NaN
+80.0    NaN
+79.0    NaN
+77.0    NaN
+75.0    NaN
+10.0    NaN
+70.0    NaN
+69.0    NaN
+66.0    NaN
+65.0    NaN
+60.0    NaN
+58.0    NaN
+55.0    NaN
+50.0    NaN
+45.0    NaN
+40.0    NaN
+35.0    NaN
+30.0    NaN
+20.0    NaN
+100.0   NaN
+Name: FEELORTH, dtype: float64"
+124,['125.  How does A typical member of the Russian elites feel about Ukrainians?'],"{'Dislikes': [45.07690725008623, 2.449661301981915], 'Neutral': [51.59445098363233, 7.27392754612633]}","3.0     NaN
+10.0    NaN
+93.0    NaN
+90.0    NaN
+86.0    NaN
+85.0    NaN
+83.0    NaN
+81.0    NaN
+80.0    NaN
+79.0    NaN
+75.0    NaN
+72.0    NaN
+70.0    NaN
+66.0    NaN
+65.0    NaN
+60.0    NaN
+58.0    NaN
+55.0    NaN
+50.0    NaN
+45.0    NaN
+40.0    NaN
+30.0    NaN
+20.0    NaN
+100.0   NaN
+Name: FEELUKR, dtype: float64","3.0     NaN
+10.0    NaN
+93.0    NaN
+90.0    NaN
+86.0    NaN
+85.0    NaN
+83.0    NaN
+81.0    NaN
+80.0    NaN
+79.0    NaN
+75.0    NaN
+72.0    NaN
+70.0    NaN
+66.0    NaN
+65.0    NaN
+60.0    NaN
+58.0    NaN
+55.0    NaN
+50.0    NaN
+45.0    NaN
+40.0    NaN
+30.0    NaN
+20.0    NaN
+100.0   NaN
+Name: FEELUKR, dtype: float64","3.0     NaN
+10.0    NaN
+93.0    NaN
+90.0    NaN
+86.0    NaN
+85.0    NaN
+83.0    NaN
+81.0    NaN
+80.0    NaN
+79.0    NaN
+75.0    NaN
+72.0    NaN
+70.0    NaN
+66.0    NaN
+65.0    NaN
+60.0    NaN
+58.0    NaN
+55.0    NaN
+50.0    NaN
+45.0    NaN
+40.0    NaN
+30.0    NaN
+20.0    NaN
+100.0   NaN
+Name: FEELUKR, dtype: float64"
+125,['126.  Is A typical member of the Russian elites a member of any political party or movement?'],"{'No': [91.89137619862039, 0], 'Yes': [57.17579737264102, 0]}","No     0.652174
+Yes    0.347826
+Name: PARTYMEM, dtype: float64","Yes    0.572917
+No     0.427083
+Name: PARTYMEM, dtype: float64","No     0.813433
+Yes    0.186567
+Name: PARTYMEM, dtype: float64"
+126,['127.  Was A typical member of the Russian elites a member of the CPSU during the Soviet period?'],"{'No': [85.8620420491205, 0], 'Yes': [63.623884098380735, 0]}","(2020) I was too young to be a member of the CPSU or I was not born yet    0.472803
+No                                                                         0.351464
+Yes                                                                        0.175732
+Name: CPSU, dtype: float64","(2020) I was too young to be a member of the CPSU or I was not born yet    0.431373
+No                                                                         0.313725
+Yes                                                                        0.254902
+Name: CPSU, dtype: float64","(2020) I was too young to be a member of the CPSU or I was not born yet    0.503650
+No                                                                         0.379562
+Yes                                                                        0.116788
+Name: CPSU, dtype: float64"
+127,"['128.  Did A typical member of the Russian elites serve in the armed forces, were you only in the reserves, or did you not serve at all?']","{'Did not serve at all': [73.60406347626676, 11.197605741476284], 'Served': [56.177681487506064, 22.574147893751167]}","Didn't serve at all    0.473469
+Served                 0.355102
+Was in reserves        0.155102
+99.0                   0.016327
+Name: ARMY, dtype: float64","Served                 0.438095
+Didn't serve at all    0.390476
+Was in reserves        0.142857
+99.0                   0.028571
+Name: ARMY, dtype: float64","Didn't serve at all    0.535714
+Served                 0.292857
+Was in reserves        0.164286
+99.0                   0.007143
+Name: ARMY, dtype: float64"
+128,"['129.  Have A typical member of the Russian elites ever served as an officer in any other force structures, such as the FSB, KGB, MVD, procuracy, or MChS?']","{'No': [50.6109935226219, 0], 'Yes': [60.47242318442883, 0]}","No     0.878661
+Yes    0.121339
+Name: FORCESTR, dtype: float64","No     0.727273
+Yes    0.272727
+Name: FORCESTR, dtype: float64","No     0.985714
+Yes    0.014286
+Name: FORCESTR, dtype: float64"
+129,['130.  Which does A typical member of the Russian elites speak most fluently?'],"{'English': [74.8873491158102, 11.352101663584046]}","English      0.821256
+German       0.125604
+French       0.038647
+Chinese      0.004831
+Hebrew       0.004831
+Ukrainian    0.004831
+Spanish      0.000000
+Name: LANGUAGE1, dtype: float64","English      0.779070
+German       0.151163
+French       0.058140
+Ukrainian    0.011628
+Chinese      0.000000
+Hebrew       0.000000
+Spanish      0.000000
+Name: LANGUAGE1, dtype: float64","English      0.851240
+German       0.107438
+French       0.024793
+Chinese      0.008264
+Hebrew       0.008264
+Spanish      0.000000
+Ukrainian    0.000000
+Name: LANGUAGE1, dtype: float64"
